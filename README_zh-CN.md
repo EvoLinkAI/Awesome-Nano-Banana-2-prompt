@@ -121,7 +121,7 @@ Nano Banana 2 基于 Gemini 3.1 Flash Image 构建，以 Flash 速度提供 Pro 
 11. [资源](#11-资源)
 12. [贡献](#12-贡献)
 13. [Star History](#13-star-history)
-- [许可证](#许可证)
+14. [许可证](#许可证)
 
 ---
 

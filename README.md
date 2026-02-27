@@ -121,7 +121,7 @@ Nano Banana 2 is built on Gemini 3.1 Flash Image — delivering Pro-level qualit
 11. [Resources](#11-resources)
 12. [Contributing](#12-contributing)
 13. [Star History](#13-star-history)
-- [License](#license)
+14. [License](#license)
 
 ---
 

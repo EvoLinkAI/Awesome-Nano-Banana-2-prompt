@@ -2,12 +2,13 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![GitHub stars](https://img.shields.io/github/stars/xiji2646-netizen/awesome-nano-banana-2-prompt?style=social)](https://github.com/xiji2646-netizen/awesome-nano-banana-2-prompt/stargazers)
 
-[简体中文](README_zh-CN.md) | English
-
 > A curated collection of **100 high-quality Nano Banana 2 prompts** for AI image generation — from photorealistic portraits to creative experiments, 3D dioramas, and beyond.
 >
+> 精选 **100 条高质量 Nano Banana 2 提示词**，涵盖写实人像、创意实验、3D 立体模型等多种风格。
 
 Nano Banana 2 is built on Gemini 3.1 Flash Image — delivering Pro-level quality at Flash speed. This repo collects the most effective prompts from X (Twitter) creators and prompt engineers to help you unlock its full potential.
+
+Nano Banana 2 基于 Gemini 3.1 Flash Image 构建，以 Flash 速度提供 Pro 级质量。本仓库收录了来自 X (Twitter) 创作者和提示词工程师的最佳实践。
 
 ---
 
@@ -15,55 +16,55 @@ Nano Banana 2 is built on Gemini 3.1 Flash Image — delivering Pro-level qualit
 
 [<img width="600" alt="EvoLink Nano Banana 2" src="https://img.shields.io/badge/EvoLink-Nano_Banana_2_API-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMyA3djEwbDkgNSA5LTVWN2wtOS01eiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=" />](https://evolink.ai/zh/nano-banana-2)
 
-| Resolution | Google Official | EvoLink | Savings |
+| Resolution 分辨率 | Google Official 官方 | EvoLink | Savings 节省 |
 |:---:|:---:|:---:|:---:|
 | 0.5K (~0.25MP) | $0.045 / image | **$0.0359 / image** | 20% |
 | 1K (~1MP) | $0.067 / image | **$0.0538 / image** | 20% |
 | 2K (~4MP) ⭐ | $0.101 / image | **$0.0806 / image** | 20% |
 | 4K (~16MP) | $0.15 / image | **$0.1210 / image** | 19% |
 
-**Why EvoLink?**
-- 🔑 **One API Key, Zero Config** — No Google Cloud project, no billing setup, no quota requests.
-- 💰 **20% Cheaper** — Same model, lower price.
-- ⚡ **99.9% Uptime** — Auto-fallback to the next cheapest provider.
-- 🔌 **OpenAI-Compatible** — Migrate in minutes with the same endpoint format.
-- 🎨 **200+ AI Models** — Access Nano Banana 2 and 200+ other models with one key.
+**Why EvoLink? 为什么选择 EvoLink？**
+- 🔑 **One API Key, Zero Config 一个密钥零配置** — No Google Cloud project, no billing setup, no quota requests. 无需 Google Cloud 项目、无需计费配置、无需配额申请。
+- 💰 **20% Cheaper 便宜 20%** — Same model, lower price. 同一模型，更低价格。
+- ⚡ **99.9% Uptime 高可用** — Auto-fallback to the next cheapest provider. 自动故障转移，确保服务不中断。
+- 🔌 **OpenAI-Compatible 兼容 OpenAI** — Migrate in minutes with the same endpoint format. 几分钟即可迁移。
+- 🎨 **200+ AI Models 200+ 模型** — Access Nano Banana 2 and 200+ other models with one key. 一个密钥访问全部模型。
 
-##### Quick Start
-1. Sign up at [EvoLink](https://evolink.ai) (free) and get your API key
-2. Send a POST request with your prompt and optional reference images
-3. Receive generated/edited images — ready to deploy
+##### Quick Start 快速开始
+1. Sign up at [EvoLink](https://evolink.ai) (free) and get your API key 注册获取 API Key
+2. Send a POST request with your prompt and optional reference images 发送请求
+3. Receive generated/edited images — ready to deploy 获取结果
 
-👉 **[Get Started Now](https://evolink.ai/zh/nano-banana-2)**
-
----
-
-## 📖 Table of Contents
-
-1. [Product Photography](#1-product-photography)
-2. [Photorealism & Portraits](#2-photorealism--portraits)
-3. [Street & Documentary](#3-street--documentary)
-4. [Panoramic & Landscape](#4-panoramic--landscape)
-5. [3D & Diorama](#5-3d--diorama)
-6. [Creative & Artistic](#6-creative--artistic)
-7. [Fashion & Lifestyle](#7-fashion--lifestyle)
-8. [Education & Knowledge](#8-education--knowledge)
-9. [E-commerce & Virtual Studio](#9-e-commerce--virtual-studio)
-10. [Workplace & Productivity](#10-workplace--productivity)
-11. [Photo Editing & Restoration](#11-photo-editing--restoration)
-12. [Interior Design](#12-interior-design)
-13. [Social Media & Marketing](#13-social-media--marketing)
-14. [Daily Life & Translation](#14-daily-life--translation)
-15. [Social Networking & Avatars](#15-social-networking--avatars)
-16. [Resources](#16-resources)
-17. [Contributing](#17-contributing)
+👉 **[Get Started Now 立即开始 →](https://evolink.ai/zh/nano-banana-2)**
 
 ---
 
-## 1. Product Photography
+## 📖 Table of Contents 目录
 
-### 1.1. Orange Juice Brand Product Shot
-*A monochromatic product shot with precise color matching and studio lighting.*
+1. [Product Photography 产品摄影](#1-product-photography-产品摄影)
+2. [Photorealism & Portraits 写实与人像](#2-photorealism--portraits-写实与人像)
+3. [Street & Documentary 街头与纪实](#3-street--documentary-街头与纪实)
+4. [Panoramic & Landscape 全景与风景](#4-panoramic--landscape-全景与风景)
+5. [3D & Diorama 3D 与立体模型](#5-3d--diorama-3d-与立体模型)
+6. [Creative & Artistic 创意与艺术](#6-creative--artistic-创意与艺术)
+7. [Fashion & Lifestyle 时尚与生活](#7-fashion--lifestyle-时尚与生活)
+8. [Education & Knowledge 教育与知识](#8-education--knowledge-教育与知识)
+9. [E-commerce & Virtual Studio 电商与虚拟工作室](#9-e-commerce--virtual-studio-电商与虚拟工作室)
+10. [Workplace & Productivity 办公与效率](#10-workplace--productivity-办公与效率)
+11. [Photo Editing & Restoration 图片编辑与修复](#11-photo-editing--restoration-图片编辑与修复)
+12. [Interior Design 室内设计](#12-interior-design-室内设计)
+13. [Social Media & Marketing 社交媒体与营销](#13-social-media--marketing-社交媒体与营销)
+14. [Daily Life & Translation 日常生活与翻译](#14-daily-life--translation-日常生活与翻译)
+15. [Social Networking & Avatars 社交与头像](#15-social-networking--avatars-社交与头像)
+16. [Resources 资源](#16-resources-资源)
+17. [Contributing 贡献](#17-contributing-贡献)
+
+---
+
+## 1. Product Photography 产品摄影
+
+### 1.1. Orange Juice Brand Product Shot 橙汁品牌产品照
+*A monochromatic product shot with precise color matching and studio lighting. 单色调产品摄影，精准配色与专业灯光。*
 
 <img width="400" alt="Orange Juice Product Shot" src="https://pbs.twimg.com/media/HCJo0_IXMAEl4-W.jpg" />
 
@@ -73,10 +74,10 @@ A photorealistic product shot of a person holding a slim, light orange can of ka
 ```
 *Source: Kane ([@kane_120](https://x.com/kane_120)) - [Post](https://x.com/kane_120/status/2027298049211367884)*
 
-### 1.2. Luxury Product Photography
-*A floating luxury product shot on dark water with flowers and elegant lighting.*
+### 1.2. Luxury Product Photography 奢侈品产品摄影
+*A floating luxury product shot on dark water with flowers and elegant lighting. 暗水面上的漂浮奢侈品产品照，搭配花卉与优雅灯光。*
 
-<img width="400" alt="Luxury Product Photography" src="https://pbs.twimg.com/media/G2fIgYqWMAA2e_P?format=jpg&name=large" />
+<img width="400" alt="Luxury Product Photography" src="https://raw.githubusercontent.com/ZeroLu/awesome-nanobanana-pro/refs/heads/main/assets/luxury-product-shot.jpg" />
 
 **Prompt:**
 ```text
@@ -96,10 +97,10 @@ Mood & Style:
 
 ---
 
-## 2. Photorealism & Portraits
+## 2. Photorealism & Portraits 写实与人像
 
-### 2.1. Spherical Cute Animals
-*Transform any animal into an adorable ball-shaped character with oversized eyes.*
+### 2.1. Spherical Cute Animals 球形萌宠
+*Transform any animal into an adorable ball-shaped character with oversized eyes. 将任何动物变成可爱的球形角色。*
 
 <img width="400" alt="Spherical Cute Animals" src="https://pbs.twimg.com/media/HCJoZvHW0AAGMHB.jpg" />
 
@@ -109,8 +110,8 @@ Make a photo of a cute ball-shaped version of a [animal], with big adorable over
 ```
 *Source: NanoBanana ([@NanoBanana](https://x.com/NanoBanana)) - [Post](https://x.com/NanoBanana/status/2027298143134478451)*
 
-### 2.2. Needle-Felted Wool Miniature
-*A structured JSON prompt for creating handcrafted needle-felted wool miniature characters.*
+### 2.2. Needle-Felted Wool Miniature 羊毛毡微缩模型
+*A structured JSON prompt for creating handcrafted needle-felted wool miniature characters. 结构化 JSON 提示词，创建手工羊毛毡微缩角色。*
 
 <img width="400" alt="Needle-Felted Wool Miniature" src="https://pbs.twimg.com/media/HCJovThXkAAHgvH.jpg" />
 
@@ -140,8 +141,8 @@ Make a photo of a cute ball-shaped version of a [animal], with big adorable over
 ```
 *Source: Firat Bilal ([@firatbilal](https://x.com/firatbilal)) - [Post](https://x.com/firatbilal/status/2027298605216739483)*
 
-### 2.3. Candid Street Portrait
-*Photorealistic candid portrait with documentary-style composition and natural lighting.*
+### 2.3. Candid Street Portrait 街头抓拍人像
+*Photorealistic candid portrait with documentary-style composition and natural lighting. 纪实风格街头人像，自然光线。*
 
 <img width="400" alt="Candid Street Portrait" src="https://pbs.twimg.com/media/HCHgy0AbQAAsQGO.jpg" />
 
@@ -151,8 +152,8 @@ Photorealistic candid street photography portrait of an elderly woman, expressiv
 ```
 *Source: Baby Meme X ([@babymemexx](https://x.com/babymemexx)) - [Post](https://x.com/babymemexx/status/2027299162148983166)*
 
-### 2.4. Pixel Art Game Enemy
-*Highly-detailed pixel art character design for fantasy ARPG games.*
+### 2.4. Pixel Art Game Enemy 像素艺术游戏敌人
+*Highly-detailed pixel art character design for fantasy ARPG games. 高细节像素艺术角色设计。*
 
 <img width="400" alt="Pixel Art Game Enemy" src="https://pbs.twimg.com/media/HCHRq-la8AAijWu.jpg" />
 
@@ -161,8 +162,8 @@ Photorealistic candid street photography portrait of an elderly woman, expressiv
 create a highly-detailed pixel art top-down view directly front facing view of a complex evil dual banana-wielding monkey designed enemy for a fantasy arpg game, isolated on a plain white background
 ```
 *Source: ProperPrompter ([@ProperPrompter](https://x.com/ProperPrompter)) - [Post](https://x.com/ProperPrompter/status/2027131849643028921)*
-### 2.5. Hyper-Realistic Dual-Tone Portrait
-*Dramatic dual-tone studio lighting with high contrast and commercial fashion style.*
+### 2.5. Hyper-Realistic Dual-Tone Portrait 双色调灯光人像
+*Dramatic dual-tone studio lighting with high contrast and commercial fashion style. 戏剧性双色调灯光，商业时尚风格。*
 
 <img width="400" alt="Dual-Tone Portrait" src="https://pbs.twimg.com/media/HCIJljHbgAEYjwF.jpg" />
 
@@ -172,8 +173,8 @@ Hyper-realistic, cinematic portrait of a stylish person in a cool side-profile p
 ```
 *Source: ChillaiKalan__ ([@ChillaiKalan__](https://x.com/ChillaiKalan__)) - [Post](https://x.com/ChillaiKalan__/status/2027193329692356909)*
 
-### 2.6. Gritty Lion Bond Portrait
-*A raw, hyper-realistic portrait showing a deep bond between man and lion.*
+### 2.6. Gritty Lion Bond Portrait 人狮羁绊
+*A raw, hyper-realistic portrait showing a deep bond between man and lion. 超写实人狮亲密肖像。*
 
 <img width="400" alt="Lion Bond Portrait" src="https://pbs.twimg.com/media/HCIJwJebkAAbsi4.jpg" />
 
@@ -183,8 +184,8 @@ A gritty, intense portrait of a man, a friend of real lion, captured in a raw, h
 ```
 *Source: Snow ([@iamrealsnow](https://x.com/iamrealsnow)) - [Post](https://x.com/iamrealsnow/status/2027193518708662672)*
 
-### 2.7. Soft Glow Mirror Selfie
-*A structured JSON prompt for stylish mirror selfie with warm ambient lighting.*
+### 2.7. Soft Glow Mirror Selfie 柔光镜面自拍
+*A structured JSON prompt for stylish mirror selfie with warm ambient lighting. 结构化 JSON 提示词，温暖环境光镜面自拍。*
 
 <img width="400" alt="Soft Glow Mirror Selfie" src="https://pbs.twimg.com/media/HCI0lpjXAAArM6n.jpg" />
 
@@ -229,8 +230,8 @@ A gritty, intense portrait of a man, a friend of real lion, captured in a raw, h
 ```
 *Source: Zainab Fatima ([@Zainabfat2728](https://x.com/Zainabfat2728)) - [Post](https://x.com/Zainabfat2728/status/2027240607916101660)*
 
-### 2.8. Mosque Prayer Scene
-*A spiritual father-son prayer scene with elegant Islamic architecture.*
+### 2.8. Mosque Prayer Scene 清真寺祈祷
+*A spiritual father-son prayer scene with elegant Islamic architecture. 父子祈祷场景，精美伊斯兰建筑。*
 
 <img width="400" alt="Mosque Prayer Scene" src="https://pbs.twimg.com/media/HCIEu9dbIAANYc9.jpg" />
 
@@ -246,10 +247,10 @@ Add these tags: ultra-realistic, cinematic lighting, spiritual atmosphere, soft 
 
 ---
 
-## 3. Street & Documentary
+## 3. Street & Documentary 街头与纪实
 
-### 3.1. Black & White Urban Cyclist
-*High-contrast monochrome urban photography with motion blur and brutalist architecture.*
+### 3.1. Black & White Urban Cyclist 黑白城市骑行
+*High-contrast monochrome urban photography with motion blur and brutalist architecture. 高对比黑白城市摄影，运动模糊与粗野主义建筑。*
 
 <img width="400" alt="B&W Urban Cyclist" src="https://pbs.twimg.com/media/HCHQ57Sa0AAgNtK.jpg" />
 
@@ -259,8 +260,8 @@ Black and white cinematic urban photograph of a cyclist riding down a curved con
 ```
 *Source: Baby Meme X ([@babymemexx](https://x.com/babymemexx)) - [Post](https://x.com/babymemexx/status/2027131358636822718)*
 
-### 3.2. White Horse in Motion
-*Experimental long-exposure photography capturing raw velocity in darkness.*
+### 3.2. White Horse in Motion 奔马长曝光
+*Experimental long-exposure photography capturing raw velocity in darkness. 实验性长曝光摄影，捕捉黑暗中的速度感。*
 
 <img width="400" alt="White Horse Motion" src="https://pbs.twimg.com/media/HCHYgoDagAAUm0K.jpg" />
 
@@ -270,8 +271,8 @@ A white horse sprinting at full speed through darkness, extreme motion blur capt
 ```
 *Source: Michal Gren ([@michal_gren](https://x.com/michal_gren)) - [Post](https://x.com/michal_gren/status/2027139544789774514)*
 
-### 3.3. Minimalist Orange Wall
-*Minimalist urban street scene with strong color contrast and geometric shadows.*
+### 3.3. Minimalist Orange Wall 极简橙墙
+*Minimalist urban street scene with strong color contrast and geometric shadows. 极简城市街景，强烈色彩对比与几何阴影。*
 
 <img width="400" alt="Minimalist Orange Wall" src="https://pbs.twimg.com/media/HCI-KlsagAArkwL.jpg" />
 
@@ -283,8 +284,8 @@ minimalism, street photography, vibrant contrast, strong shadows, urban solitude
 ```
 *Source: Auqib Habib ([@auqibhabib](https://x.com/auqibhabib)) - [Post](https://x.com/auqibhabib/status/2027251173246529808)*
 
-### 3.4. Blue Hour Child & Cat
-*Cinematic anamorphic photography of a child and cat at blue hour.*
+### 3.4. Blue Hour Child & Cat 蓝调时刻
+*Cinematic anamorphic photography of a child and cat at blue hour. 电影变形镜头，蓝调时刻的孩子与猫。*
 
 <img width="400" alt="Blue Hour Child Cat" src="https://pbs.twimg.com/media/HCJDIsobAAAYZud.jpg" />
 
@@ -294,8 +295,8 @@ Close-up, slightly low angle of a child crouched on a cobblestone street at blue
 ```
 *Source: Heisenberg ([@rovvmut_](https://x.com/rovvmut_)) - [Post](https://x.com/rovvmut_/status/2027256604199199162)*
 
-### 3.5. Golden Hour Walking
-*A structured JSON prompt for cinematic lifestyle photography during golden hour.*
+### 3.5. Golden Hour Walking 金色时刻漫步
+*A structured JSON prompt for cinematic lifestyle photography during golden hour. 结构化 JSON 提示词，金色时刻生活方式摄影。*
 
 <img width="400" alt="Golden Hour Walking" src="https://pbs.twimg.com/media/HCI7s4OaAAAIml1.jpg" />
 
@@ -362,8 +363,8 @@ Close-up, slightly low angle of a child crouched on a cobblestone street at blue
 ```
 *Source: 𝗦𝗮𝗻𝗶𝗮 ([@saniaspeaks_](https://x.com/saniaspeaks_)) - [Post](https://x.com/saniaspeaks_/status/2027248447057801406)*
 
-### 3.6. Basketball Court Twilight
-*Grainy smartphone-style portrait on a faded basketball court at twilight.*
+### 3.6. Basketball Court Twilight 黄昏篮球场
+*Grainy smartphone-style portrait on a faded basketball court at twilight. 颗粒感手机风格，黄昏篮球场人像。*
 
 <img width="400" alt="Basketball Court Twilight" src="https://pbs.twimg.com/media/HCJYBqwbUAASqdT.jpg" />
 
@@ -373,8 +374,8 @@ Standing on a faded outdoor basketball court at twilight. She holds a basketball
 ```
 *Source: Jay Sensei👾 ([@hckinz](https://x.com/hckinz)) - [Post](https://x.com/hckinz/status/2027279574145626425)*
 
-### 3.7. Vintage Indoor Portrait
-*Natural indoor portrait with vintage artwork and cozy aesthetic.*
+### 3.7. Vintage Indoor Portrait 复古室内人像
+*Natural indoor portrait with vintage artwork and cozy aesthetic. 自然室内人像，复古艺术品与温馨美学。*
 
 <img width="400" alt="Vintage Indoor Portrait" src="https://pbs.twimg.com/media/HCIuaQWXAAAmt-Q.jpg" />
 
@@ -384,8 +385,8 @@ Portrait of a young woman with long wavy dark brown hair wearing a simple white 
 ```
 *Source: Zara ([@ZaraIrahh](https://x.com/ZaraIrahh)) - [Post](https://x.com/ZaraIrahh/status/2027233824262820027)*
 
-### 3.8. iPhone Mirror Selfie
-*Raw iPhone-style mirror selfie with technical camera specifications.*
+### 3.8. iPhone Mirror Selfie 手机镜面自拍
+*Raw iPhone-style mirror selfie with technical camera specifications. 原始 iPhone 风格镜面自拍，含技术参数。*
 
 <img width="400" alt="iPhone Mirror Selfie" src="https://pbs.twimg.com/media/HCJR4fQb0AAgwAQ.jpg" />
 
@@ -397,10 +398,10 @@ Portrait of a young woman with long wavy dark brown hair wearing a simple white 
 
 ---
 
-## 4. Panoramic & Landscape
+## 4. Panoramic & Landscape 全景与风景
 
-### 4.1. Mars Rover Panorama
-*A 4:1 panoramic photo captured on Mars with Opportunity rover visible in frame.*
+### 4.1. Mars Rover Panorama 火星全景
+*A 4:1 panoramic photo captured on Mars with Opportunity rover visible in frame. 火星表面 4:1 全景照片。*
 
 <img width="400" alt="Mars Panorama" src="https://pbs.twimg.com/media/HCHrZQlaQAAE933.jpg" />
 
@@ -408,10 +409,10 @@ Portrait of a young woman with long wavy dark brown hair wearing a simple white 
 ```text
 A 4:1 panoramic photo captured on Mars by NASA's Opportunity rover, showing a vast and towering Martian landscape stretching to the horizon, dramatic cliffs, rocky plains, layered red dust terrain, cinematic scale, ultra-detailed surface textures, natural sunlight, realistic atmospheric haze, with part of the Opportunity rover itself visible in the frame, including its solar panels and mast, as if reflected in or compositionally included within the shot, authentic space photography, scientifically plausible, high-resolution, stitched ultra-wide panoramic perspective, subtle edge curvature typical of rover panorama stitching, slight barrel distortion at the far edges, gently curved horizon from panoramic projection, expansive 160-degree field of view, immersive equirectangular-style panoramic rendering, ultra-wide lens feel, spatial compression and peripheral distortion characteristic of panoramic capture
 ```
-*Source: いにしえ @AI Creator
+*Source: いにしえ @AI Creator｜Will Oldgram ([@old_pgmrs_will](https://x.com/old_pgmrs_will)) - [Post](https://x.com/old_pgmrs_will/status/2027160553861558344)*
 
-### 4.2. Balcony River View
-*A simple phone panorama capturing a river view from a balcony.*
+### 4.2. Balcony River View 阳台河景
+*A simple phone panorama capturing a river view from a balcony. 手机拍摄的阳台河景全景。*
 
 <img width="400" alt="Balcony River View" src="https://pbs.twimg.com/media/HCI_EBMasAAOUs0.jpg" />
 
@@ -421,8 +422,8 @@ A 4:1 panoramic photo I took on my phone show river view from my balcon.
 ```
 *Source: 🌸 Bubskyy 🌸 ([@NyaiiBubu](https://x.com/NyaiiBubu)) - [Post](https://x.com/NyaiiBubu/status/2027252130923577706)*
 
-### 4.3. Jungle Cabin & Sunset Panorama
-*Two panoramic prompts: lush jungle view and dramatic sunset with cirrocumulus clouds.*
+### 4.3. Jungle Cabin & Sunset Panorama 丛林小屋与日落全景
+*Two panoramic prompts: lush jungle view and dramatic sunset with cirrocumulus clouds. 两组全景：茂密丛林与壮观日落。*
 
 <img width="400" alt="Jungle Panorama" src="https://pbs.twimg.com/media/HCGSBdkaoAAB3EG.jpg" />
 
@@ -433,8 +434,8 @@ A 4:1 panoramic photo I took on my phone show river view from my balcon.
 ```
 *Source: Nano Banana 2 ([@NanoBanana](https://x.com/NanoBanana)) - [Post](https://x.com/NanoBanana/status/2027062140419334147)*
 
-### 4.4. Enceladus Ice Surface Panorama
-*A scientifically plausible panorama from Saturn's moon Enceladus.*
+### 4.4. Enceladus Ice Surface Panorama 土卫二冰面全景
+*A scientifically plausible panorama from Saturn's moon Enceladus. 科学合理的土卫二冰面全景。*
 
 <img width="400" alt="Enceladus Panorama" src="https://pbs.twimg.com/media/HCHwhsLbsAAF1sh.jpg" />
 
@@ -442,12 +443,12 @@ A 4:1 panoramic photo I took on my phone show river view from my balcon.
 ```text
 A 4:1 panoramic photo captured from the icy surface of Enceladus, showing a vast frozen landscape of bright fractured ice, crystalline ridges, shallow crevasses, and smooth snow-like plains under stark sunlight, with Saturn dominating the sky at enormous scale, its pale golden disk filling a large portion of the horizon, its rings clearly visible at a noticeable diagonal angle, appearing as a brilliant tilted arc sweeping across the sky, elegantly slanted rather than edge-on, revealing the layered structure and breadth of the rings, high contrast black space above, faint stars barely visible, cold bluish-white reflected light on the ice, subtle long shadows, scientifically plausible Saturn-system astronomy, authentic space photography, ultra-detailed surface textures, realistic exposure, natural wide panoramic distortion, stitched ultra-wide rover-style panorama, slight edge curvature, immersive 160-degree field of view, high-resolution
 ```
-*Source: いにしえ @AI Creator
+*Source: いにしえ @AI Creator｜Will Oldgram ([@old_pgmrs_will](https://x.com/old_pgmrs_will)) - [Post](https://x.com/old_pgmrs_will/status/2027165993223757947)*
 
-### 4.5. Snow Leopard at Dawn
-*A hyper-realistic photograph of a snow leopard in the Himalayas at dawn.*
+### 4.5. Snow Leopard at Dawn 黎明雪豹
+*A hyper-realistic photograph of a snow leopard in the Himalayas at dawn. 喜马拉雅黎明时分的超写实雪豹。*
 
-<img width="400" alt="Snow Leopard Dawn" src="https://pbs.twimg.com/media/HCIS_qmbcAILOtX?format=jpg&name=large" />
+<img width="400" alt="Snow Leopard Dawn" src="https://pbs.twimg.com/media/HCISuCdbEAA2qZR.jpg" />
 
 **Prompt:**
 ```text
@@ -457,10 +458,10 @@ A hyper-realistic photograph of a majestic snow leopard resting on a rocky outcr
 
 ---
 
-## 5. 3D & Diorama
+## 5. 3D & Diorama 3D 与立体模型
 
-### 5.1. Hyper-Realistic City Diorama
-*3D square diorama with exposed soil cross-section and whimsical cityscape. 3D*
+### 5.1. Hyper-Realistic City Diorama 超写实城市立体模型
+*3D square diorama with exposed soil cross-section and whimsical cityscape. 3D 方形立体模型，含土壤剖面与梦幻城市景观。*
 
 <img width="400" alt="City Diorama" src="https://pbs.twimg.com/media/HCIzPxUbgAANsLz.jpg" />
 
@@ -470,8 +471,8 @@ Hyper-realistic 3D square diorama of [CITY], carved out with exposed soil cross-
 ```
 *Source: Duet | AI ([@Sheldon056](https://x.com/Sheldon056)) - [Post](https://x.com/Sheldon056/status/2027239150966231299)*
 
-### 5.2. Shanghai Bund Isometric
-*3D isometric micro-cityscape of Shanghai Bund with Chinese characters.*
+### 5.2. Shanghai Bund Isometric 上海外滩等距模型
+*3D isometric micro-cityscape of Shanghai Bund with Chinese characters. 上海外滩 3D 等距微缩城市。*
 
 <img width="400" alt="Shanghai Bund Isometric" src="https://pbs.twimg.com/media/HCI9uhzaQAAYAyS.jpg" />
 
@@ -479,10 +480,10 @@ Hyper-realistic 3D square diorama of [CITY], carved out with exposed soil cross-
 ```text
 3D isometric micro-cityscape of Shanghai Bund, miniature tilt-shift photography style, highly detailed architecture including Oriental Pearl Tower, soft studio lighting, clay and resin material, a large 3D stylized Chinese character "外滩" integrated into the city center
 ```
-*Source: ([@sen41742553](https://x.com/sen41742553)) - [Post](https://x.com/sen41742553/status/2027250878324097147)*
+*Source: 木林森 ([@sen41742553](https://x.com/sen41742553)) - [Post](https://x.com/sen41742553/status/2027250878324097147)*
 
-### 5.3. Resident Evil Vibe Box
-*Hyper-detailed 3D transparent glass cube with gaming horror immersion.*
+### 5.3. Resident Evil Vibe Box 生化危机氛围盒
+*Hyper-detailed 3D transparent glass cube with gaming horror immersion. 超细节 3D 透明玻璃盒，游戏恐怖沉浸感。*
 
 <img width="400" alt="RE Vibe Box" src="https://pbs.twimg.com/media/HCIcwHabEAE3iNb.jpg" />
 
@@ -500,10 +501,10 @@ Atmosphere: moody low-key cinematic lighting from screen glow and emergency reds
 
 ---
 
-## 6. Creative & Artistic
+## 6. Creative & Artistic 创意与艺术
 
-### 6.1. Tourlitis Lighthouse Sketch
-*A colored pencil sketch of a real-world landmark.*
+### 6.1. Tourlitis Lighthouse Sketch 灯塔彩铅素描
+*A colored pencil sketch of a real-world landmark. 真实地标的彩色铅笔素描。*
 
 <img width="400" alt="Lighthouse Sketch" src="https://pbs.twimg.com/media/HCIlu4lXUAAfXXJ.jpg" />
 
@@ -513,8 +514,8 @@ An image of Tourlitis lighthouse in Greece in the style of a colored pencil sket
 ```
 *Source: Madalyn Sklar ([@MadalynSklar](https://x.com/MadalynSklar)) - [Post](https://x.com/MadalynSklar/status/2027224942182297794)*
 
-### 6.2. Candid Flash Record Store
-*A structured JSON prompt for candid flash photography in a vintage vinyl shop.*
+### 6.2. Candid Flash Record Store 唱片店闪光抓拍
+*A structured JSON prompt for candid flash photography in a vintage vinyl shop. 结构化 JSON 提示词，复古唱片店闪光抓拍。*
 
 <img width="400" alt="Record Store Flash" src="https://pbs.twimg.com/media/HCH6P6Ua0AAn64H.jpg" />
 
@@ -546,8 +547,8 @@ An image of Tourlitis lighthouse in Greece in the style of a colored pencil sket
 ```
 *Source: Isla Sterling ([@IslaSterling](https://x.com/IslaSterling)) - [Post](https://x.com/IslaSterling/status/2027176467403297157)*
 
-### 6.3. Margherita Pizza Ghibli Infographic
-*A Studio Ghibli inspired pizza recipe infographic.*
+### 6.3. Margherita Pizza Ghibli Infographic 吉卜力风格披萨食谱
+*A Studio Ghibli inspired pizza recipe infographic. 吉卜力风格披萨食谱信息图。*
 
 <img width="400" alt="Ghibli Pizza Infographic" src="https://pbs.twimg.com/media/HCHZ46PbYAEHjPx.jpg" />
 
@@ -557,8 +558,8 @@ margherita pizza recipe infographic, Studio Ghibli inspired illustration, tradit
 ```
 *Source: Amira Zairi ([@azed_ai](https://x.com/azed_ai)) - [Post](https://x.com/azed_ai/status/2027140890247246017)*
 
-### 6.4. Cinematic Fashion Portrait (Spanish)
-*A hyper-realistic cinematic fashion portrait with dramatic red lighting — prompt in Spanish.*
+### 6.4. Cinematic Fashion Portrait (Spanish) 电影级时尚人像（西班牙语）
+*A hyper-realistic cinematic fashion portrait with dramatic red lighting — prompt in Spanish. 超写实电影级时尚人像，戏剧性红色灯光。*
 
 <img width="400" alt="Cinematic Fashion Portrait" src="https://pbs.twimg.com/media/HBdmcARacAEO8gm.jpg" />
 
@@ -578,10 +579,10 @@ Parámetros de la toma: lente de 85 mm, apertura f/2, ISO 200, 1/200 s, enfoque 
 
 ---
 
-## 7. Fashion & Lifestyle
+## 7. Fashion & Lifestyle 时尚与生活
 
-### 7.1. Hyper-Realistic Crowd Composition
-*Handling complex compositions with multiple famous faces and specific lighting.*
+### 7.1. Hyper-Realistic Crowd Composition 超写实群像构图
+*Handling complex compositions with multiple famous faces and specific lighting. 处理多名人复杂构图与特定灯光。*
 
 <img width="400" alt="Celebrity Crowd" src="https://github.com/user-attachments/assets/3a056a8d-904e-4b3e-b0d2-b5122758b7f5" />
 
@@ -595,8 +596,8 @@ THE ENVIRONMENT: A luxurious open-air rooftop terrace at sunset overlooking a mo
 ```
 *Source: [@SebJefferies](https://x.com/SebJefferies/status/1991531687147360728)*
 
-### 7.2. 2000s Mirror Selfie
-*A structured JSON prompt to generate an authentic early-2000s aesthetic.*
+### 7.2. 2000s Mirror Selfie 千禧年镜面自拍
+*A structured JSON prompt to generate an authentic early-2000s aesthetic. 结构化 JSON 提示词，生成真实的千禧年美学。*
 
 <img width="300" height="400" alt="2000s Mirror Selfie" src="https://github.com/user-attachments/assets/b71755dc-ff33-4872-8161-3f5066e0ccb6" />
 
@@ -661,8 +662,8 @@ Create a 2000s Mirror Selfie of yourself using Gemini Nano Banana.
 ```
 *Source: [@ZaraIrahh](https://x.com/ZaraIrahh/status/1991681614368436468)*
 
-### 7.3. Victoria's Secret Style Photoshoot
-*High-glamour backstage-style fashion photography with intricate details.*
+### 7.3. Victoria's Secret Style Photoshoot 维密风格写真
+*High-glamour backstage-style fashion photography with intricate details. 高端后台时尚摄影，精致细节。*
 
 <img width="300" height="400" alt="VS Photoshoot" src="https://github.com/user-attachments/assets/963c0a46-cf86-4604-8782-524b94afc51d" />
 
@@ -674,8 +675,8 @@ The background is a darkly lit room, probably under the podium. The main emphasi
 ```
 *Source: [@NanoBanana_labs](https://x.com/NanoBanana_labs/status/1991947916479762788)*
 
-### 7.4. 1990s Camera Style Portrait
-*Replicate specific film textures, flash photography, and era-specific atmosphere.*
+### 7.4. 1990s Camera Style Portrait 90 年代相机风格人像
+*Replicate specific film textures, flash photography, and era-specific atmosphere. 复刻胶片质感、闪光灯与年代氛围。*
 
 <img width="400" alt="1990s Portrait" src="https://github.com/user-attachments/assets/eca5066b-1bf6-4a97-8b81-63e9e7435050" />
 
@@ -685,8 +686,36 @@ Without changing her original face, create a portrait of a beautiful young woman
 ```
 *Source: [@kingofdairyque](https://x.com/kingofdairyque/status/1991780760030961768)*
 
-### 7.5. Professional Headshot Creator
-*Create a professional profile photo from a selfie.*
+### 7.5. One-Click Business Photo 一键商务照
+*Transforms casual photos into professional studio headshots. 将随拍照片转为专业棚拍头像。*
+
+<p align="center">
+  <img width="200" src="https://github.com/user-attachments/assets/e41db56f-d928-400c-b21b-f8a0d53ba91b" alt="Original" />
+  <img width="250" src="https://github.com/user-attachments/assets/793ad242-7867-4709-bdc6-55021f5eb78f" alt="Generated" />
+</p>
+
+**Prompt:**
+```text
+Keep the facial features of the person in the uploaded image exactly consistent . Dress them in a professional navy blue business suit with a white shirt, similar to the reference image. Background : Place the subject against a clean, solid dark gray studio photography backdrop . The background should have a subtle gradient , slightly lighter behind the subject and darker towards the edges (vignette effect). There should be no other objects. Photography Style : Shot on a Sony A7III with an 85mm f/1.4 lens , creating a flattering portrait compression. Lighting : Use a classic three-point lighting setup . The main key light should create soft, defining shadows on the face. A subtle rim light should separate the subject's shoulders and hair from the dark background. Crucial Details : Render natural skin texture with visible pores , not an airbrushed look. Add natural catchlights to the eyes . The fabric of the suit should show a subtle wool texture.Final image should be an ultra-realistic, 8k professional headshot.
+```
+*Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
+
+### 7.6. Emotional Film Photography 情感胶片摄影
+*Creates a cinematic "Kodak Portra" look while maintaining facial consistency. 电影级柯达 Portra 风格，保持面部一致性。*
+
+<p align="center">
+  <img width="200" src="https://github.com/user-attachments/assets/e41db56f-d928-400c-b21b-f8a0d53ba91b" alt="Original" />
+  <img width="250" src="https://github.com/user-attachments/assets/243d1b11-9ef0-4d4f-b308-97d67b5d3bc3" alt="Generated" />
+</p>
+
+**Prompt:**
+```text
+Keep the facial features of the person in the uploaded image exactly consistent . Style : A cinematic, emotional portrait shot on Kodak Portra 400 film . Setting : An urban street coffee shop window at Golden Hour (sunset) . Warm, nostalgic lighting hitting the side of the face. Atmosphere : Apply a subtle film grain and soft focus to create a dreamy, storytelling vibe. Action : The subject is looking slightly away from the camera, holding a coffee cup, with a relaxed, candid expression. Details : High quality, depth of field, bokeh background of city lights.
+```
+*Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
+
+### 7.7. Professional Headshot Creator 专业头像生成
+*Create a professional profile photo from a selfie. 从自拍生成专业头像。*
 
 <img width="400" alt="Professional Headshot" src="https://pbs.twimg.com/media/G6x00O_XIAASY0r?format=jpg&name=900x900" />
 
@@ -696,8 +725,8 @@ Without changing her original face, create a portrait of a beautiful young woman
 ```
 *Source: [@PavolRusnak](https://x.com/PavolRusnak/status/1994097306526994558)*
 
-### 7.6. Fisheye Movie Character Selfie
-*A 360-degree selfie with movie characters using fisheye lens.*
+### 7.8. Fisheye Movie Character Selfie 鱼眼电影角色自拍
+*A 360-degree selfie with movie characters using fisheye lens. 鱼眼镜头与电影角色的 360 度自拍。*
 
 <img width="400" alt="Fisheye Movie Selfie" src="https://pbs.twimg.com/media/G7Q6stnXIAAe7Vz?format=jpg&name=small" />
 
@@ -712,8 +741,8 @@ Lighting & Texture: Harsh, direct on-camera flash lighting that creates hard sha
 ```
 *Source: ΛRMIN | AI ([@Arminn_Ai](https://x.com/Arminn_Ai)) - [Post](https://x.com/Arminn_Ai/status/1996285140893622391)*
 
-### 7.7. Character Consistency Selfie
-*Take a selfie with a movie character while preserving your features.*
+### 7.9. Character Consistency Selfie 角色一致性自拍
+*Take a selfie with a movie character while preserving your features. 与电影角色自拍，保持面部特征。*
 
 <img width="400" alt="Character Selfie" src="https://pbs.twimg.com/media/G7HwgjGaYAAgJ67?format=jpg&name=small" />
 
@@ -725,8 +754,8 @@ Keep the person exactly as shown in the reference image with 100% identical faci
 ```
 *Source: Rohan Paul ([@rohanpaul_ai](https://x.com/rohanpaul_ai)) - [Post](https://x.com/rohanpaul_ai/status/1995641282056925680)*
 
-### 7.8. Museum Art Exhibition Selfie
-*A commercial-grade photo with a classical oil painting version of yourself.*
+### 7.10. Museum Art Exhibition Selfie 博物馆油画自拍
+*A commercial-grade photo with a classical oil painting version of yourself. 与自己的古典油画版合影。*
 
 <img width="400" alt="Museum Selfie" src="https://pbs.twimg.com/media/G7N2KUIbMAAspf6?format=jpg&name=900x900" />
 
@@ -742,10 +771,10 @@ Gallery spotlights hit the textured paint surface.
 Masterpiece, ultra-detailed, cinematic lighting, strong contrast, dramatic shadows, 8K UHD, highly detailed textures
 , professional photography.
 ```
-*Source: ([@brad_zhang2024](https://x.com/brad_zhang2024)) - [Post](https://x.com/brad_zhang2024/status/1996072707348201827)*
+*Source: 烟花老师（一支烟花） ([@brad_zhang2024](https://x.com/brad_zhang2024)) - [Post](https://x.com/brad_zhang2024/status/1996072707348201827)*
 
-### 7.9. Compact Camera Screen Display
-*A photo displayed on a compact digital camera screen with nostalgic aesthetic.*
+### 7.11. Compact Camera Screen Display 卡片机屏幕展示
+*A photo displayed on a compact digital camera screen with nostalgic aesthetic. 卡片机屏幕上的怀旧照片。*
 
 <img width="400" alt="Camera Screen Display" src="https://pbs.twimg.com/media/G7NVohbbgAcUFBe?format=jpg&name=900x900" />
 
@@ -766,8 +795,8 @@ Color grading: nostalgic digital-camera tones, high contrast flash, subtle displ
 ```
 *Source: simply ([@kingofdairyque](https://x.com/kingofdairyque)) - [Post](https://x.com/kingofdairyque/status/1996033217795903655)*
 
-### 7.10. Magazine Cover Portrait
-*Create a glossy magazine cover with dynamic portrait.*
+### 7.12. Magazine Cover Portrait 杂志封面人像
+*Create a glossy magazine cover with dynamic portrait. 创建光面杂志封面与动态人像。*
 
 <img width="400" alt="Magazine Cover" src="https://pbs.twimg.com/media/G7QmCFcXoAAwaet?format=jpg&name=large" />
 
@@ -781,8 +810,29 @@ Put the issue number and today's date in the corner along with a barcode and a p
 ```
 *Source: Nano Banana Pro ([@NanoBanana](https://x.com/NanoBanana)) - [Post](https://x.com/NanoBanana/status/1996262496802361675)*
 
-### 7.11. Portrait with Puppy in Snow
-*Create a winter portrait with a puppy while preserving facial features.*
+### 7.13. Luxury Product Photography 奢华产品摄影
+*Create a floating luxury product shot on dark water. 暗水面上的漂浮奢华产品照。*
+
+<img width="400" alt="Luxury Product" src="https://raw.githubusercontent.com/ZeroLu/awesome-nanobanana-pro/refs/heads/main/assets/luxury-product-shot.jpg" />
+
+**Prompt:**
+```text
+Product:
+[BRAND] [PRODUCT NAME] - [bottle shape], [label description], [liquid color]
+
+Scene:
+Luxury product shot floating on dark water with [flower type] in [colors] arranged around it.
+[Lighting style - e.g., "golden hour glow" /
+"bright fresh light"] creates reflections and ripples across the water.
+
+Mood & Style:
+[Adjectives - e.g., "ethereal and luxurious" /
+"fresh and clean"], high-end commercial photography, [camera angle], shallow depth of field with soft bokeh background
+```
+*Source: AmirMušić ([@AmirMushich](https://x.com/AmirMushich)) - [Post](https://x.com/AmirMushich/status/1974767431714304456)*
+
+### 7.14. Portrait with Puppy in Snow 雪中小狗合影
+*Create a winter portrait with a puppy while preserving facial features. 冬日雪景小狗合影，保持面部特征。*
 
 <img width="400" alt="Puppy Snow Portrait" src="https://pbs.twimg.com/media/G6qMd2abwAA-hAi?format=jpg&name=900x900" />
 
@@ -826,10 +876,10 @@ Put the issue number and today's date in the corner along with a barcode and a p
 
 ---
 
-## 8. Text & Typography
+## 8. Text & Typography 文字与排版
 
-### 8.1. Star Wars "Where's Waldo"
-*A complex prompt testing dense crowds and specific character recognition.*
+### 8.1. Star Wars "Where's Waldo" 星球大战大家来找茬
+*A complex prompt testing dense crowds and specific character recognition. 测试密集人群与角色识别的复杂提示词。*
 
 <img width="400" alt="Star Wars Waldo" src="https://github.com/user-attachments/assets/439317c2-4be8-4b28-803f-36427ecca31e" />
 
@@ -841,8 +891,8 @@ First one to pull this off. First take. Even Waldo is there.
 ```
 *Source: [@creacas](https://x.com/creacas/status/1991585587548348513)*
 
-### 8.2. Aging Through the Years
-*Demonstrates temporal consistency and aging effects on a single subject.*
+### 8.2. Aging Through the Years 岁月变迁
+*Demonstrates temporal consistency and aging effects on a single subject. 展示单一主体的时间一致性与衰老效果。*
 
 <img width="400" alt="Aging Through Years" src="https://github.com/user-attachments/assets/74fced67-0715-46d3-b788-d9ed9e98873b" />
 
@@ -852,8 +902,8 @@ First one to pull this off. First take. Even Waldo is there.
 ```
 *Source: [@dr_cintas](https://x.com/dr_cintas/status/1991888364099035581)*
 
-### 8.3. Recursive Visuals
-*Demonstrates the model's ability to handle infinite loop logic (Droste effect).*
+### 8.3. Recursive Visuals 递归视觉
+*Demonstrates the model's ability to handle infinite loop logic (Droste effect). 展示模型处理无限循环逻辑的能力。*
 
 <img width="400" alt="Recursive Cat" src="https://github.com/user-attachments/assets/f7ef5a84-e2bf-4d4e-a93e-38a23a21b9ef" />
 
@@ -863,8 +913,8 @@ recursive image of an orange cat sitting in an office chair holding up an iPad. 
 ```
 *Source: [@venturetwins](https://x.com/venturetwins/status/1993174445515772086)*
 
-### 8.4. Coordinate Visualization
-*Generates a specific location and time based purely on coordinates.*
+### 8.4. Coordinate Visualization 坐标可视化
+*Generates a specific location and time based purely on coordinates. 仅凭坐标生成特定地点与时间。*
 
 <img width="400" alt="Coordinate Visualization" src="https://github.com/user-attachments/assets/8629b88a-b872-43e2-a19e-855542702ac2" />
 
@@ -874,8 +924,8 @@ recursive image of an orange cat sitting in an office chair holding up an iPad. 
 ```
 *Source: [Replicate](https://replicate.com/)*
 
-### 8.5. Conceptual Visualization
-*Interpretative rendering of how engineers visualize a landmark.*
+### 8.5. Conceptual Visualization 概念可视化
+*Interpretative rendering of how engineers visualize a landmark. 工程师视角下的地标诠释。*
 
 <img width="400" alt="Engineers SF Bridge" src="https://github.com/user-attachments/assets/761380fe-0850-49e2-8589-797f10b7cb8d" />
 
@@ -885,8 +935,8 @@ How engineers see the San Francisco Bridge
 ```
 *Source: [Replicate](https://replicate.com/)*
 
-### 8.6. Literal Interpretation
-*Interprets a filename as a visual subject.*
+### 8.6. Literal Interpretation 字面解读
+*Interprets a filename as a visual subject. 将文件名解读为视觉主题。*
 
 <img width="400" alt="Rare Steak" src="https://replicate.delivery/xezq/piAS0s9DshbqMFXJvIfw9feWaEaNsejlRifhVgMSflvZJzzaF/tmp3u2ym4f_.jpeg" />
 
@@ -896,10 +946,10 @@ rare.jpg
 ```
 *Source: [Replicate](https://replicate.com/)*
 
-### 8.7. Multi-Subject Compositing
-*Combines multiple input portraits into a single cohesive group photo.*
+### 8.7. Multi-Subject Compositing 多人合成
+*Combines multiple input portraits into a single cohesive group photo. 将多张肖像合成为一张合影。*
 
-| Input References | Generated Output |
+| Input References 输入参考 | Generated Output 生成结果 |
 | :--- | :--- |
 | <img width="100" src="https://replicate.delivery/pbxt/O61OKYNMCfhPTvuTf6SdRVwNlIpoKMeQPQw5WygFtvDwhWgh/guy.webp" /> <img width="100" src="https://replicate.delivery/pbxt/O61OK9ETMHHJO5m0qlCkGLhr5lcmbZ08U42C8PWLd4uszDQr/bob-ross.png" /> | <img width="400" alt="Group Photo" src="https://github.com/user-attachments/assets/54e2a2eb-1ab4-4f2b-86a2-7a59856e615f" /> |
 
@@ -909,8 +959,8 @@ an office team photo, everyone making a silly face
 ```
 *Source: [Replicate](https://replicate.com/)*
 
-### 8.8. Whiteboard Marker Art
-*Simulating specific drawing media on glass textures.*
+### 8.8. Whiteboard Marker Art 白板马克笔艺术
+*Simulating specific drawing media on glass textures. 模拟玻璃白板上的马克笔绘画。*
 
 <img width="400" alt="Whiteboard Art" src="https://github.com/user-attachments/assets/b399c4d9-151b-4e15-9a40-f092f7a892b9" />
 
@@ -920,8 +970,8 @@ Create a photo of vagabonds musashi praying drawn on a glass whiteboard in a sli
 ```
 *Source: [@nicdunz](https://x.com/nicdunz/status/1991556910106177849)*
 
-### 8.9. Split View 3D Render
-*Create a 3D render with realistic left half and wireframe right half.*
+### 8.9. Split View 3D Render 分割视图 3D 渲染
+*Create a 3D render with realistic left half and wireframe right half. 左半写实右半线框的 3D 渲染。*
 
 <img width="400" alt="Split View Render" src="https://pbs.twimg.com/media/G7LmGCQWYAAfp47?format=jpg&name=small" />
 
@@ -955,8 +1005,8 @@ No extra props, no text, no labels unless explicitly requested.
 ```
 *Source: Michal Malewicz ([@michalmalewicz](https://x.com/michalmalewicz)) - [Post](https://x.com/michalmalewicz/status/1995910758169752059)*
 
-### 8.10. USA 3D Diorama with Landmarks
-*Create an isometric 3D diorama of US landmarks.*
+### 8.10. USA 3D Diorama with Landmarks 美国地标 3D 立体模型
+*Create an isometric 3D diorama of US landmarks. 美国地标等距 3D 立体模型。*
 
 <img width="400" alt="USA 3D Diorama" src="https://pbs.twimg.com/media/G7LGpq0XAAAxcIP?format=jpg&name=medium" />
 
@@ -966,8 +1016,8 @@ Create a high-detail 3D isometric diorama of the entire United States, where eac
 ```
 *Source: Data Exec ([@DataExec](https://x.com/DataExec)) - [Post](https://x.com/DataExec/status/1995876348879937648)*
 
-### 8.11. US Map Made of Famous Foods
-*Create a map of US states made of their most famous food.*
+### 8.11. US Map Made of Famous Foods 美食地图
+*Create a map of US states made of their most famous food. 用各州名菜制作的美国地图。*
 
 <img width="400" alt="US Food Map" src="https://pbs.twimg.com/media/G7I5dbiWwAAYOox?format=jpg&name=medium" />
 
@@ -977,8 +1027,8 @@ create a map of the US where every state is made out of its most famous food (th
 ```
 *Source: Ethan Mollick ([@emollick](https://x.com/emollick)) - [Post](https://x.com/emollick/status/1995720976068137048)*
 
-### 8.12. City's Tallest Buildings 3D View
-*Create a miniature 3D cartoon view of a city's tallest buildings.*
+### 8.12. City's Tallest Buildings 3D View 城市最高建筑 3D 视图
+*Create a miniature 3D cartoon view of a city's tallest buildings. 城市最高建筑的微缩 3D 卡通视图。*
 
 <img width="400" alt="City Buildings 3D" src="https://pbs.twimg.com/media/G7GOJ7WW4AAEsNE?format=jpg&name=small" />
 
@@ -997,8 +1047,8 @@ Use a square 1080×1080 composition. Use a clean, neutral background. Ensure no 
 ```
 *Source: Michal Malewicz ([@michalmalewicz](https://x.com/michalmalewicz)) - [Post](https://x.com/michalmalewicz/status/1995532450861080956)*
 
-### 8.13. 3D Isometric Home Office
-*Create a 3D isometric view of a home office. 3D*
+### 8.13. 3D Isometric Home Office 3D 等距居家办公
+*Create a 3D isometric view of a home office. 3D 等距居家办公场景。*
 
 <img width="400" alt="3D Home Office" src="https://pbs.twimg.com/media/G7MEwTWWEAA1DkO?format=jpg&name=medium" />
 
@@ -1008,10 +1058,10 @@ Based on you know about me, generate a 3D isometric colored illustration of me w
 
 [Additional details: a bichon frise and 3 monitors]
 ```
-*Source: ([@dotey](https://x.com/dotey)) - [Post](https://x.com/dotey/status/1995944319677554985)*
+*Source: 宝玉 ([@dotey](https://x.com/dotey)) - [Post](https://x.com/dotey/status/1995944319677554985)*
 
-### 8.14. Emoji Combination
-*Combine emojis in a Google-style design.*
+### 8.14. Emoji Combination Emoji 组合
+*Combine emojis in a Google-style design. 以 Google 风格组合 Emoji。*
 
 <img width="400" alt="Emoji Combination" src="https://pbs.twimg.com/media/G7PmjRBXgAAVKXd?format=jpg&name=medium" />
 
@@ -1021,8 +1071,8 @@ combine these emojis: 🍌 + 😎, on a white background as a google emoji desig
 ```
 *Source: Nano Banana Pro ([@NanoBanana](https://x.com/NanoBanana)) - [Post](https://x.com/NanoBanana/status/1996193397913317384)*
 
-### 8.15. Torn Paper Art Effect
-*Add torn paper effect to specific areas of an image.*
+### 8.15. Torn Paper Art Effect 撕纸艺术效果
+*Add torn paper effect to specific areas of an image. 在图片特定区域添加撕纸效果。*
 
 <img width="400" alt="Torn Paper Art" src="https://pbs.twimg.com/media/G7OpzpjbAAArAAS?format=jpg&name=900x900" />
 
@@ -1081,8 +1131,8 @@ interior_style:
 ```
 *Source: てんねん ([@munou_ac](https://x.com/munou_ac)) - [Post](https://x.com/munou_ac/status/1996129537806213597)*
 
-### 8.16. Floating Country Island Diorama
-*A hyper-realistic floating miniature island shaped like a specific country.*
+### 8.16. Floating Country Island Diorama 漂浮国家岛屿
+*A hyper-realistic floating miniature island shaped like a specific country. 特定国家形状的超写实漂浮微缩岛屿。*
 
 <img width="400" alt="Floating Country Island" src="https://pbs.twimg.com/media/G75EwP0WkAEpIbm?format=jpg&name=medium" />
 
@@ -1092,8 +1142,8 @@ Create an ultra-HD, hyper-realistic digital poster of a floating miniature islan
 ```
 *Source: TechieSA ([@TechieBySA](https://x.com/TechieBySA)) - [Post](https://x.com/TechieBySA/status/1999110884879221052)*
 
-### 8.17. Miniature Swimming Pool Diorama
-*Surreal miniature-world collage poster featuring a container as a swimming pool.*
+### 8.17. Miniature Swimming Pool Diorama 微缩泳池立体模型
+*Surreal miniature-world collage poster featuring a container as a swimming pool. 超现实微缩世界拼贴海报。*
 
 <img width="400" alt="Miniature Swimming Pool" src="https://pbs.twimg.com/media/G7u3urdXEAA3R5K?format=jpg&name=small" />
 
@@ -1108,8 +1158,8 @@ Preserve the soft, high-saturation, toy-like aesthetic with plush textures, past
 ```
 *Source: Salma ([@Salmaaboukarr](https://x.com/Salmaaboukarr)) - [Post](https://x.com/Salmaaboukarr/status/1998394870759567373)*
 
-### 8.18. Christmas Ornament 3D Character
-*Transform yourself into a cute 3D character inside a Christmas ornament.*
+### 8.18. Christmas Ornament 3D Character 圣诞球 3D 角色
+*Transform yourself into a cute 3D character inside a Christmas ornament. 将自己变成圣诞球内的可爱 3D 角色。*
 
 <img width="400" alt="Christmas Ornament" src="https://pbs.twimg.com/media/G7vbusrWUAA8omH?format=jpg&name=large" />
 
@@ -1121,8 +1171,8 @@ Cinematic lighting, shallow depth of field, soft reflections on the glass, ultra
 ```
 *Source: Pierrick Chevallier | IA ([@CharaspowerAI](https://x.com/CharaspowerAI)) - [Post](https://x.com/CharaspowerAI/status/1998432458941858282)*
 
-### 8.19. Ironing Out Wrinkles
-*A surreal take on anti-aging with a miniature iron smoothing out wrinkles.*
+### 8.19. Ironing Out Wrinkles 熨平皱纹
+*A surreal take on anti-aging with a miniature iron smoothing out wrinkles. 超现实抗衰老概念，微型熨斗熨平皱纹。*
 
 <img width="400" alt="Ironing Wrinkles" src="https://pbs.twimg.com/media/G7b8YyVXQAALtxS?format=jpg&name=large" />
 
@@ -1151,8 +1201,8 @@ Cinematic lighting, shallow depth of field, soft reflections on the glass, ultra
 ```
 *Source: Ege ([@egeberkina](https://x.com/egeberkina)) - [Post](https://x.com/egeberkina/status/1997061102237049047)*
 
-### 8.20. Perfectly Isometric Photography
-*Create a captured photo that just happens to be perfectly isometric.*
+### 8.20. Perfectly Isometric Photography 完美等距摄影
+*Create a captured photo that just happens to be perfectly isometric. 恰好完美等距的实拍照片。*
 
 <img width="400" alt="Isometric Photography" src="https://pbs.twimg.com/media/G7qgKDPX0AAEGS9?format=jpg&name=small" />
 
@@ -1164,10 +1214,10 @@ Make a photo that is perfectly isometric. It is not a miniature, it is a capture
 
 ---
 
-## 9. Photo Editing & Restoration
+## 9. Photo Editing & Restoration 图片编辑与修复
 
-### 9.1. Shop Window Cartoon Reflection
-*Create a photograph of a person next to a shop window showing their cartoon version.*
+### 9.1. Shop Window Cartoon Reflection 橱窗卡通倒影
+*Create a photograph of a person next to a shop window showing their cartoon version. 橱窗中展示卡通版自己。*
 
 <img width="400" alt="Shop Window Cartoon" src="https://pbs.twimg.com/media/G7drMCfXkAAN3w0?format=jpg&name=large" />
 
@@ -1196,8 +1246,8 @@ Make a photo that is perfectly isometric. It is not a miniature, it is a capture
 ```
 *Source: Mira ([@xmiiru_](https://x.com/xmiiru_)) - [Post](https://x.com/xmiiru_/status/1997182817235583293)*
 
-### 9.2. Urban 3D LED Display
-*Create a scene with a large L-shaped 3D LED screen in an urban environment.*
+### 9.2. Urban 3D LED Display 城市 3D LED 屏幕
+*Create a scene with a large L-shaped 3D LED screen in an urban environment. 城市环境中的大型 L 形 3D LED 屏幕。*
 
 <img width="400" alt="Urban 3D LED" src="https://pbs.twimg.com/media/G7jPBxmXwAA7igN?format=jpg&name=small" />
 
@@ -1209,10 +1259,10 @@ An enormous L-shaped glasses-free 3D LED screen situated prominently at a bustli
 scene description: 
 [An adorable giant kitten playfully paws at passing pedestrians, its fluffy paws and curious face extending realistically into the space around the screen.]
 ```
-*Source: ([@dotey](https://x.com/dotey)) - [Post](https://x.com/dotey/status/1997574511705657772)*
+*Source: 宝玉 ([@dotey](https://x.com/dotey)) - [Post](https://x.com/dotey/status/1997574511705657772)*
 
-### 9.3. Smart Outpainting
-*Expands image ratios by intelligently generating matching scenery.*
+### 9.3. Smart Outpainting 智能扩图
+*Expands image ratios by intelligently generating matching scenery. 智能扩展图片比例，生成匹配的场景。*
 
 <img width="400" alt="Smart Outpainting" src="https://github.com/user-attachments/assets/cc8c4e87-fe0f-4b8a-a610-a6d55ed0294c" />
 
@@ -1222,8 +1272,8 @@ Zoom out and expand this image to a 16:9 aspect ratio (computer wallpaper size).
 ```
 *Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
 
-### 9.4. Smart Crowd Removal
-*Removes unwanted people from backgrounds and fills with logical textures.*
+### 9.4. Smart Crowd Removal 智能去人
+*Removes unwanted people from backgrounds and fills with logical textures. 移除背景中的路人并智能填充。*
 
 <img width="400" alt="Crowd Removal" src="https://github.com/user-attachments/assets/bade2fb0-f7d8-4435-91d4-ad0b41819c9b" />
 
@@ -1233,8 +1283,8 @@ Remove all the tourists/people in the background behind the main subject. Intell
 ```
 *Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
 
-### 9.5. Face Detection CCTV Simulation
-*Create a high angle CCTV surveillance shot with face detection.*
+### 9.5. Face Detection CCTV Simulation 人脸检测监控模拟
+*Create a high angle CCTV surveillance shot with face detection. 高角度监控画面与人脸检测。*
 
 <img width="400" alt="CCTV Simulation" src="https://pbs.twimg.com/media/G673aBCWUAAFUGn?format=jpg&name=900x900" />
 
@@ -1244,8 +1294,8 @@ Create a high angle CCTV surveillance shot using the uploaded image as the sourc
 ```
 *Source: [@egeberkina](https://x.com/egeberkina/status/1994804061024010628)*
 
-### 9.6. Concept Visualization Infographic
-*Converts textual concepts into clear educational vector illustrations.*
+### 9.6. Concept Visualization Infographic 概念可视化信息图
+*Converts textual concepts into clear educational vector illustrations. 将文字概念转为清晰的教育矢量插图。*
 
 <img width="400" alt="Concept Infographic" src="https://github.com/user-attachments/assets/bfaee21b-d6da-4345-9340-e786ce07dbed" />
 
@@ -1255,8 +1305,8 @@ Create an educational infographic explaining [Photosynthesis] . Visual Elements 
 ```
 *Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
 
-### 9.7. Kids' Crayon Travel Journal
-*Generate a childlike travel journal illustration for a city.*
+### 9.7. Kids' Crayon Travel Journal 儿童蜡笔旅行日记
+*Generate a childlike travel journal illustration for a city. 生成城市儿童蜡笔旅行日记插图。*
 
 <img width="400" alt="Crayon Travel Journal" src="https://pbs.twimg.com/media/G69WHFDW4AAv0TK?format=jpg&name=medium" />
 
@@ -1298,8 +1348,8 @@ III. Overall Art Style Requirements
 ```
 *Source: [@dotey](https://x.com/dotey/status/1994908289813880915)*
 
-### 9.8. Financial Sankey Diagram
-*Create a professional financial Sankey diagram visualization.*
+### 9.8. Financial Sankey Diagram 财务桑基图
+*Create a professional financial Sankey diagram visualization. 创建专业财务桑基图可视化。*
 
 <img width="400" alt="Sankey Diagram" src="https://pbs.twimg.com/media/G7P3UgNaYAAd1HN?format=jpg&name=medium" />
 
@@ -1314,14 +1364,14 @@ Texture: The connecting paths (flows) must appear "silky smooth" with elegant Be
 Iconography: On the left side (Revenue sources), include specific, minimalist flat vector icons representing the business segments.
 Branding: Place the official [Insert Brand Name Here] logo clearly at the top center.[Details]: High resolution, 4k, sharp typography (sans-serif), professional data visualization layout.
 ```
-*Source: ([@bggg_ai](https://x.com/bggg_ai)) - [Post](https://x.com/bggg_ai/status/1996211865207316751)*
+*Source: 饼干哥哥AGI（2.0） ([@bggg_ai](https://x.com/bggg_ai)) - [Post](https://x.com/bggg_ai/status/1996211865207316751)*
 
 ---
 
-## 10. E-commerce & Marketing
+## 10. E-commerce & Marketing 电商与营销
 
-### 10.1. Virtual Model Try-On
-*Dresses a model in a specific garment while preserving fabric texture.*
+### 10.1. Virtual Model Try-On 虚拟试衣
+*Dresses a model in a specific garment while preserving fabric texture. 为模特穿上指定服装，保持面料质感。*
 
 <p align="center">
   <img width="150" src="https://github.com/user-attachments/assets/4ae658d3-4fdd-44c5-a1ab-9d44d04dd792" alt="Garment" />
@@ -1335,8 +1385,8 @@ Using Image 1 (the garment) and Image 2 (the model), create a hyper-realistic fu
 ```
 *Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
 
-### 10.2. Professional Product Photography
-*Isolates products from messy backgrounds into high-end commercial settings.*
+### 10.2. Professional Product Photography 专业产品摄影
+*Isolates products from messy backgrounds into high-end commercial settings. 从杂乱背景中提取产品，放入高端商业场景。*
 
 <img width="400" alt="Product Photography" src="https://github.com/user-attachments/assets/cdfd4934-d06a-48ee-bf28-58ce16c458c1" />
 
@@ -1346,8 +1396,8 @@ Identify the main product in the uploaded photo (automatically removing any hand
 ```
 *Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
 
-### 10.3. 3D Chibi-Style Brand Store 3D Q
-*Create a miniature 3D store for a brand.*
+### 10.3. 3D Chibi-Style Brand Store 3D Q 版品牌店铺
+*Create a miniature 3D store for a brand. 为品牌创建微缩 3D 店铺。*
 
 <img width="400" alt="Chibi Brand Store" src="https://pbs.twimg.com/media/G7BWvI8X0AApeZB?format=jpg&name=900x900" />
 
@@ -1355,10 +1405,10 @@ Identify the main product in the uploaded photo (automatically removing any hand
 ```text
 3D chibi-style miniature concept store of {Brand Name}, creatively designed with an exterior inspired by the brand's most iconic product or packaging (such as a giant {brand's core product, e.g., chicken bucket/hamburger/donut/roast duck}). The store features two floors with large glass windows clearly showcasing the cozy and finely decorated interior: {brand's primary color}-themed decor, warm lighting, and busy staff dressed in outfits matching the brand. Adorable tiny figures stroll or sit along the street, surrounded by benches, street lamps, and potted plants, creating a charming urban scene. Rendered in a miniature cityscape style using Cinema 4D, with a blind-box toy aesthetic, rich in details and realism, and bathed in soft lighting that evokes a relaxing afternoon atmosphere. --ar 2:3
 ```
-*Source: ([@dotey](https://x.com/dotey)) - [Post](https://x.com/dotey/status/1995190286775881780)*
+*Source: 宝玉 ([@dotey](https://x.com/dotey)) - [Post](https://x.com/dotey/status/1995190286775881780)*
 
-### 10.4. Room Furnishing Visualization
-*Visualize how furniture would look in an empty room.*
+### 10.4. Room Furnishing Visualization 房间家具可视化
+*Visualize how furniture would look in an empty room. 可视化空房间摆放家具的效果。*
 
 <img width="400" alt="Room Furnishing" src="https://pbs.twimg.com/media/G63UHDYWoAAD_Hm?format=jpg&name=medium" />
 
@@ -1368,8 +1418,8 @@ Show me how this room would look with furniture in it
 ```
 *Source: [@NanoBanana](https://x.com/NanoBanana/status/1994483569625022487)*
 
-### 10.5. Hand-drawn Flowchart to Corporate Charts
-*Converts whiteboard sketches into clear "McKinsey-style" vector presentations.*
+### 10.5. Hand-drawn Flowchart to Corporate Charts 手绘流程图转专业图表
+*Converts whiteboard sketches into clear "McKinsey-style" vector presentations. 将白板草图转为麦肯锡风格矢量演示。*
 
 <img width="400" alt="Flowchart" src="https://github.com/user-attachments/assets/c59d3272-7525-4be0-94e3-8d642baaa659" />
 
@@ -1379,8 +1429,8 @@ Convert this hand-drawn whiteboard sketch into a professional corporate flowchar
 ```
 *Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
 
-### 10.6. UI Sketch to High-Fidelity Prototype
-*Transforms wireframe scribbles into realistic mobile app mockups.*
+### 10.6. UI Sketch to High-Fidelity Prototype 手绘线框转高保真原型
+*Transforms wireframe scribbles into realistic mobile app mockups. 将线框草图转为逼真的移动应用原型。*
 
 <img width="400" alt="UI Prototype" src="https://github.com/user-attachments/assets/67690896-22f8-4abc-8e89-d4779233a7ad" />
 
@@ -1390,8 +1440,8 @@ Transform this rough wireframe sketch into a high-fidelity UI design mockups for
 ```
 *Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
 
-### 10.7. Magazine Layout Generator
-*Visualize articles in print format with complex typography.*
+### 10.7. Magazine Layout Generator 杂志排版生成器
+*Visualize articles in print format with complex typography. 将文章可视化为印刷排版。*
 
 <img width="400" alt="Magazine Layout" src="https://github.com/user-attachments/assets/5982a68e-8c7d-4c7c-a07e-2a4a0a74770d" />
 
@@ -1401,8 +1451,8 @@ Put this whole text, verbatim, into a photo of a glossy magazine article on a de
 ```
 *Source: [@fofrAI](https://x.com/fofrAI/status/1991530971800182929)*
 
-### 10.8. Viral Cover Image
-*Creates engaging thumbnails with text overlays and exaggerated expressions.*
+### 10.8. Viral Cover Image 病毒式封面图
+*Creates engaging thumbnails with text overlays and exaggerated expressions. 创建带文字叠加和夸张表情的吸睛封面。*
 
 <p align="center">
   <img width="200" src="https://github.com/user-attachments/assets/f5c790f9-f0e2-4c4d-b274-bf4bcd1c4764" alt="Source" />
@@ -1415,8 +1465,8 @@ Design a viral video thumbnail using the person from Image 1. Face Consistency :
 ```
 *Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
 
-### 10.9. Commercial Promotional Poster
-*Designs professional sales posters with integrated text and product photography.*
+### 10.9. Commercial Promotional Poster 商业促销海报
+*Designs professional sales posters with integrated text and product photography. 设计带文字和产品摄影的专业促销海报。*
 
 <img width="400" alt="Promotional Poster" src="https://github.com/user-attachments/assets/b65a064a-8519-4907-9497-90f00f9dba17" />
 
@@ -1429,8 +1479,8 @@ Design a professional promotional poster for a [Coffee Shop]. Composition : A ci
 ```
 *Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
 
-### 10.10. Physical Store Translation
-*Translates menus or signs while preserving the original surface texture.*
+### 10.10. Physical Store Translation 实体店翻译
+*Translates menus or signs while preserving the original surface texture. 翻译菜单或标牌，保持原始表面质感。*
 
 <p align="center">
   <img width="400" src="https://github.com/user-attachments/assets/9920f5ad-c6bb-4375-9255-a80f8568b0a9" alt="Original" />
@@ -1443,8 +1493,8 @@ Translate the Chinese dish names on the wall menu into English for foreign touri
 ```
 *Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
 
-### 10.11. Digital Content Localization
-*Translates comics or memes by scrubbing text bubbles and replacing content.*
+### 10.11. Digital Content Localization 数字内容本地化
+*Translates comics or memes by scrubbing text bubbles and replacing content. 翻译漫画或表情包，替换对话气泡内容。*
 
 <img width="400" alt="Content Localization" src="https://github.com/user-attachments/assets/2cb58cf3-c05f-45d0-9f04-67fd7ba00267" />
 
@@ -1454,8 +1504,8 @@ Translate the text in the speech bubbles/captions from [Japanese/English] to [Ch
 ```
 *Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
 
-### 10.12. 3D Blind Box Style Avatar
-*Converts portraits into cute C4D-style "Pop Mart" toy characters.*
+### 10.12. 3D Blind Box Style Avatar 3D 盲盒风格头像
+*Converts portraits into cute C4D-style "Pop Mart" toy characters. 将肖像转为可爱的泡泡玛特风格 3D 角色。*
 
 <p align="center">
   <img width="200" src="https://github.com/user-attachments/assets/c6c03353-f00a-4042-ba74-726b46c67541" alt="Original" />
@@ -1468,8 +1518,8 @@ Transform the person in the uploaded photo into a cute 3D Pop Mart style blind b
 ```
 *Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
 
-### 10.13. Pet Meme Creation
-*Turns pet photos into minimalist hand-drawn funny stickers.*
+### 10.13. Pet Meme Creation 宠物表情包
+*Turns pet photos into minimalist hand-drawn funny stickers. 将宠物照片转为极简手绘搞笑贴纸。*
 
 <p align="center">
   <img width="400" src="https://github.com/user-attachments/assets/ed677fde-b407-4798-895d-e89c8534bd32" alt="Pet" />
@@ -1482,8 +1532,8 @@ Turn this photo of my [cat/dog] into a funny hand-drawn WeChat sticker . Style :
 ```
 *Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
 
-### 10.14. Japanese High School Student Snap
-*Create a snapshot in the style of a Japanese high school student.*
+### 10.14. Japanese High School Student Snap 日本高中生快照
+*Create a snapshot in the style of a Japanese high school student. 日本高中生风格的一次性相机快照。*
 
 <img width="400" alt="Japanese Snap" src="https://pbs.twimg.com/media/G6z7gUVa0AMf1-G?format=jpg&name=small" />
 
@@ -1493,8 +1543,8 @@ A daily snapshot taken with a low-quality disposable camera. A clumsy photo take
 ```
 *Source: SSSS_CRYPTOMAN ([@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN)) - [Post](https://x.com/SSSS_CRYPTOMAN/status/1994245271220568233)*
 
-### 10.15. Hard Furnishing Preview
-*Generates a complete design presentation board from a simple 2D floor plan.*
+### 10.15. Hard Furnishing Preview 硬装预览
+*Generates a complete design presentation board from a simple 2D floor plan. 从 2D 平面图生成完整设计展示板。*
 
 <p align="center">
   <img width="400" src="https://github.com/user-attachments/assets/5f5e4629-3ebe-45c6-8b90-bd4c009d2585" alt="Floor Plan" />
@@ -1511,8 +1561,8 @@ Based on the uploaded 2D floor plan, generate a professional interior design pre
 ```
 *Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
 
-### 10.16. Y2K Scrapbook Poster
-*Create a Y2K-style scrapbook poster with multiple poses. Y2K*
+### 10.16. Y2K Scrapbook Poster Y2K 剪贴簿海报
+*Create a Y2K-style scrapbook poster with multiple poses. Y2K 风格多姿态剪贴簿海报。*
 
 <img width="400" alt="Y2K Scrapbook" src="https://pbs.twimg.com/media/G7JduAQa8AEofUY?format=jpg&name=large" />
 
@@ -1541,8 +1591,8 @@ photography_rendering": {
 ```
 *Source: Shreya Yadav ([@ShreyaYadav___](https://x.com/ShreyaYadav___)) - [Post](https://x.com/ShreyaYadav___/status/1995760655018942720)*
 
-### 10.17. AI Skin Analysis
-*Analyze skin and provide skincare routine recommendations.*
+### 10.17. AI Skin Analysis AI 皮肤分析
+*Analyze skin and provide skincare routine recommendations. 分析皮肤并提供护肤建议。*
 
 <img width="400" alt="AI Skin Analysis" src="https://pbs.twimg.com/media/G7QJQpOXEAAqAP1?format=jpg&name=large" />
 
@@ -1572,8 +1622,8 @@ Keep the tone supportive, simple and clear.
 ```
 *Source: Saman | AI ([@Samann_ai](https://x.com/Samann_ai)) - [Post](https://x.com/Samann_ai/status/1996230732470010064)*
 
-### 10.18. Chalkboard Anime Art
-*Photorealistic documentation of a chalkboard anime drawing.*
+### 10.18. Chalkboard Anime Art 黑板动漫艺术
+*Photorealistic documentation of a chalkboard anime drawing. 黑板动漫绘画的写实记录。*
 
 <img width="400" alt="Chalkboard Anime" src="https://pbs.twimg.com/media/G65Uh3ebkAEqbv5?format=jpg&name=medium" />
 
@@ -1607,8 +1657,8 @@ Keep the tone supportive, simple and clear.
 ```
 *Source: Emily ([@IamEmily2050](https://x.com/IamEmily2050)) - [Post](https://x.com/IamEmily2050/status/1994624635300974734)*
 
-### 10.19. Fisheye Matcha Girl
-*Ultra wide fisheye photo of a girl sipping a matcha drink.*
+### 10.19. Fisheye Matcha Girl 鱼眼抹茶女孩
+*Ultra wide fisheye photo of a girl sipping a matcha drink. 超广角鱼眼镜头抹茶女孩。*
 
 <img width="400" alt="Fisheye Matcha" src="https://pbs.twimg.com/media/G6_pAefWYAAilqz?format=jpg&name=large" />
 
@@ -1656,8 +1706,8 @@ Keep the tone supportive, simple and clear.
 ```
 *Source: Ege ([@egeberkina](https://x.com/egeberkina)) - [Post](https://x.com/egeberkina/status/1995069549805187087)*
 
-### 10.20. Novel Scene 3D Poster
-*A 3D poster design for novels or films with a miniature diorama effect.*
+### 10.20. Novel Scene 3D Poster 小说场景 3D 海报
+*A 3D poster design for novels or films with a miniature diorama effect. 小说或电影的 3D 海报设计，微缩立体模型效果。*
 
 <img width="400" alt="Novel 3D Poster" src="https://pbs.twimg.com/media/G7uUpDraQAAC1ty?format=jpg&name=large" />
 
@@ -1671,10 +1721,10 @@ Regarding the background, do not use a simple pure white background. Please crea
 
 Finally, for the bottom layout, please generate Chinese text. Center the novel title with a font that matches the original style. Below the title, automatically retrieve and typeset a classic description or quote about this scene from the original work, using an elegant serif font.
 ```
-*Source: ([@op7418](https://x.com/op7418)) - [Post](https://x.com/op7418/status/1998355915456790916)*
+*Source: 歸藏(guizang.ai) ([@op7418](https://x.com/op7418)) - [Post](https://x.com/op7418/status/1998355915456790916)*
 
-### 10.21. Photo Book Magazine Cover
-*A photo book style magazine cover with precise coordinates.*
+### 10.21. Photo Book Magazine Cover 摄影集杂志封面
+*A photo book style magazine cover with precise coordinates. 带精确坐标的摄影集风格杂志封面。*
 
 <img width="400" alt="Photo Book Cover" src="https://pbs.twimg.com/media/G70ZJFCXcAAn3F2?format=jpg&name=medium" />
 
@@ -1684,8 +1734,8 @@ Create a beautiful, photo book style magazine cover that fully utilizes the 9:16
 ```
 *Source: Min Choi ([@minchoi](https://x.com/minchoi)) - [Post](https://x.com/minchoi/status/1998784591155409397)*
 
-### 10.22. Canon IXUS Aesthetic Portrait
-*Create a portrait with Canon IXUS point-and-shoot camera aesthetic.*
+### 10.22. Canon IXUS Aesthetic Portrait 佳能 IXUS 美学人像
+*Create a portrait with Canon IXUS point-and-shoot camera aesthetic. 佳能 IXUS 卡片机美学人像。*
 
 <img width="400" alt="Canon IXUS Portrait" src="https://pbs.twimg.com/media/G7U1z0CbQAE9zEq?format=jpg&name=medium" />
 
@@ -1733,8 +1783,8 @@ Create a beautiful, photo book style magazine cover that fully utilizes the 9:16
 
 ---
 
-### 10.23. Cinematic Keyframe Generator
-*Generates cinematic keyframes and storyboards from a reference image.*
+### 10.23. Cinematic Keyframe Generator 电影关键帧生成器
+*Generates cinematic keyframes and storyboards from a reference image. 从参考图生成电影关键帧与分镜。*
 
 <img width="400" alt="Cinematic Keyframes" src="https://pbs.twimg.com/media/G64FgZKXMAAXP_g?format=jpg&name=small" />
 
@@ -1763,8 +1813,8 @@ Requirements:
 ```
 *Source: [@underwoodxie96](https://x.com/underwoodxie96/status/1995109628825489647)*
 
-### 10.24. Trans-Dimensional Liquid Pour
-*A surreal scene where liquid from the physical world pours into a digital screen.*
+### 10.24. Trans-Dimensional Liquid Pour 跨维度倒水
+*A surreal scene where liquid from the physical world pours into a digital screen. 物理世界的液体倒入数字屏幕的超现实场景。*
 
 <img width="400" alt="Trans-Dimensional Pour" src="https://pbs.twimg.com/media/G7Uz7jZXoAAGEV0?format=jpg&name=900x900" />
 
@@ -1826,8 +1876,8 @@ Requirements:
 ```
 *Source: Yaseen Khan Gul ([@YaseenK7212](https://x.com/YaseenK7212)) - [Post](https://x.com/YaseenK7212/status/1996559154240967144)*
 
-### 10.25. Extreme Wide Angle Phone Edit
-*Edit photo with extreme wide angle and phone screen replacement.*
+### 10.25. Extreme Wide Angle Phone Edit 超广角手机编辑
+*Edit photo with extreme wide angle and phone screen replacement. 超广角手机编辑与屏幕替换。*
 
 <img width="400" alt="Wide Angle Phone" src="https://pbs.twimg.com/media/G7gEwj8bIAAcFM2?format=jpg&name=small" />
 
@@ -1861,10 +1911,10 @@ Requirements:
   }
 }
 ```
-*Source: ([@qisi_ai](https://x.com/qisi_ai)) - [Post](https://x.com/qisi_ai/status/1997925279948534056)*
+*Source: 骑司Chase ([@qisi_ai](https://x.com/qisi_ai)) - [Post](https://x.com/qisi_ai/status/1997925279948534056)*
 
-### 10.26. Hyperrealistic Anime Portrait
-*Hyperrealistic anime-style portrait with dramatic spotlight lighting.*
+### 10.26. Hyperrealistic Anime Portrait 超写实动漫人像
+*Hyperrealistic anime-style portrait with dramatic spotlight lighting. 超写实动漫风格人像，戏剧性聚光灯。*
 
 <img width="400" alt="Anime Spotlight" src="https://pbs.twimg.com/media/G7Ah9SIbIAAGlyu?format=jpg&name=900x900" />
 
@@ -1887,8 +1937,8 @@ Everything outside the spotlight should be nearly invisible.
 ```
 *Source: Anissa ([@SimplyAnnisa](https://x.com/SimplyAnnisa)) - [Post](https://x.com/SimplyAnnisa/status/1995131975351562274)*
 
-### 10.27. Chalkboard Anime Art (Alternate)
-*A different approach to chalkboard anime documentation with Naruto theme.*
+### 10.27. Chalkboard Anime Art (Alternate) 黑板动漫艺术（变体）
+*A different approach to chalkboard anime documentation with Naruto theme. 火影忍者主题黑板动漫记录的不同方法。*
 
 <img width="400" alt="Chalkboard Naruto" src="https://pbs.twimg.com/media/G65Uh3ebkAEqbv5?format=jpg&name=medium" />
 
@@ -1900,22 +1950,26 @@ A photorealistic photograph of a Japanese school classroom blackboard covered in
 
 ---
 
-## 11. Resources
+## 11. Resources 资源
 
-- [Official Prompting Guide](https://blog.google/products/gemini/prompting-tips-nano-banana-pro/) - Learn how to structure your prompts effectively
-- [How to prompt Nano Banana](https://www.fofr.ai/nano-banana-pro-guide) - Detailed prompting guide
-- [EvoLink Nano Banana 2 API](https://evolink.ai/zh/nano-banana-2) - Access Nano Banana 2 via EvoLink API
+- [Official Prompting Guide](https://blog.google/products/gemini/prompting-tips-nano-banana-pro/) - Learn how to structure your prompts effectively 学习如何有效构建提示词
+- [How to prompt Nano Banana](https://www.fofr.ai/nano-banana-pro-guide) - Detailed prompting guide 详细提示词指南
+- [EvoLink Nano Banana 2 API](https://evolink.ai/zh/nano-banana-2) - Access Nano Banana 2 via EvoLink API 通过 EvoLink API 使用 Nano Banana 2
 
-## 12. Contributing
+## 12. Contributing 贡献
 
 Contributions are welcome! If you have an **awesome Nano Banana 2 prompt**, please submit a Pull Request.
 
-1. Fork the repo
-2. Create a new branch
-3. Add your prompt in the correct category with the next available number
-4. Submit PR
+欢迎贡献！如果你有优秀的 Nano Banana 2 提示词，请提交 Pull Request。
+
+1. Fork the repo 复刻仓库
+2. Create a new branch 创建新分支
+3. Add your prompt in the correct category with the next available number 在正确分类中添加提示词
+4. Submit PR 提交 PR
 
 Please ensure you include the **Source** (link to the original creator) to give credit where it is due.
+
+请确保包含 **来源**（原创者链接），以表示对原创者的尊重。
 
 ## 13. Star History
 
@@ -1929,8 +1983,10 @@ Please ensure you include the **Source** (link to the original creator) to give 
 
 ---
 
-## License
+## License 许可证
 
 [![CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+本作品采用 [知识共享署名 4.0 国际许可协议](https://creativecommons.org/licenses/by/4.0/) 进行许可。

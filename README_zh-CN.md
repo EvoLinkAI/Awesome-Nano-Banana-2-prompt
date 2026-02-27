@@ -76,7 +76,7 @@ A photorealistic product shot of a person holding a slim, light orange can of ka
 ### 1.2. 奢侈品产品摄影
 *暗水面上的漂浮奢侈品产品照，搭配花卉与优雅灯光。*
 
-<img width="400" alt="Luxury Product Photography" src="https://raw.githubusercontent.com/ZeroLu/awesome-nanobanana-pro/refs/heads/main/assets/luxury-product-shot.jpg" />
+<img width="400" alt="Luxury Product Photography" src="https://pbs.twimg.com/media/G2fIgYqWMAA2e_P?format=jpg&name=large" />
 
 **Prompt:**
 ```text
@@ -447,7 +447,7 @@ A 4:1 panoramic photo captured from the icy surface of Enceladus, showing a vast
 ### 4.5. 黎明雪豹
 *喜马拉雅黎明时分的超写实雪豹。*
 
-<img width="400" alt="Snow Leopard Dawn" src="https://pbs.twimg.com/media/HCISuCdbEAA2qZR.jpg" />
+<img width="400" alt="Snow Leopard Dawn" src="https://pbs.twimg.com/media/HCIS_qmbcAILOtX?format=jpg&name=large" />
 
 **Prompt:**
 ```text
@@ -685,35 +685,7 @@ Without changing her original face, create a portrait of a beautiful young woman
 ```
 *Source: [@kingofdairyque](https://x.com/kingofdairyque/status/1991780760030961768)*
 
-### 7.5. 一键商务照
-*将随拍照片转为专业棚拍头像。*
-
-<p align="center">
-  <img width="200" src="https://github.com/user-attachments/assets/e41db56f-d928-400c-b21b-f8a0d53ba91b" alt="Original" />
-  <img width="250" src="https://github.com/user-attachments/assets/793ad242-7867-4709-bdc6-55021f5eb78f" alt="Generated" />
-</p>
-
-**Prompt:**
-```text
-Keep the facial features of the person in the uploaded image exactly consistent . Dress them in a professional navy blue business suit with a white shirt, similar to the reference image. Background : Place the subject against a clean, solid dark gray studio photography backdrop . The background should have a subtle gradient , slightly lighter behind the subject and darker towards the edges (vignette effect). There should be no other objects. Photography Style : Shot on a Sony A7III with an 85mm f/1.4 lens , creating a flattering portrait compression. Lighting : Use a classic three-point lighting setup . The main key light should create soft, defining shadows on the face. A subtle rim light should separate the subject's shoulders and hair from the dark background. Crucial Details : Render natural skin texture with visible pores , not an airbrushed look. Add natural catchlights to the eyes . The fabric of the suit should show a subtle wool texture.Final image should be an ultra-realistic, 8k professional headshot.
-```
-*Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
-
-### 7.6. 情感胶片摄影
-*电影级柯达 Portra 风格，保持面部一致性。*
-
-<p align="center">
-  <img width="200" src="https://github.com/user-attachments/assets/e41db56f-d928-400c-b21b-f8a0d53ba91b" alt="Original" />
-  <img width="250" src="https://github.com/user-attachments/assets/243d1b11-9ef0-4d4f-b308-97d67b5d3bc3" alt="Generated" />
-</p>
-
-**Prompt:**
-```text
-Keep the facial features of the person in the uploaded image exactly consistent . Style : A cinematic, emotional portrait shot on Kodak Portra 400 film . Setting : An urban street coffee shop window at Golden Hour (sunset) . Warm, nostalgic lighting hitting the side of the face. Atmosphere : Apply a subtle film grain and soft focus to create a dreamy, storytelling vibe. Action : The subject is looking slightly away from the camera, holding a coffee cup, with a relaxed, candid expression. Details : High quality, depth of field, bokeh background of city lights.
-```
-*Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
-
-### 7.7. 专业头像生成
+### 7.5. 专业头像生成
 *从自拍生成专业头像。*
 
 <img width="400" alt="Professional Headshot" src="https://pbs.twimg.com/media/G6x00O_XIAASY0r?format=jpg&name=900x900" />
@@ -724,7 +696,7 @@ Keep the facial features of the person in the uploaded image exactly consistent 
 ```
 *Source: [@PavolRusnak](https://x.com/PavolRusnak/status/1994097306526994558)*
 
-### 7.8. 鱼眼电影角色自拍
+### 7.6. 鱼眼电影角色自拍
 *鱼眼镜头与电影角色的 360 度自拍。*
 
 <img width="400" alt="Fisheye Movie Selfie" src="https://pbs.twimg.com/media/G7Q6stnXIAAe7Vz?format=jpg&name=small" />
@@ -740,7 +712,7 @@ Lighting & Texture: Harsh, direct on-camera flash lighting that creates hard sha
 ```
 *Source: ΛRMIN | AI ([@Arminn_Ai](https://x.com/Arminn_Ai)) - [Post](https://x.com/Arminn_Ai/status/1996285140893622391)*
 
-### 7.9. 角色一致性自拍
+### 7.7. 角色一致性自拍
 *与电影角色自拍，保持面部特征。*
 
 <img width="400" alt="Character Selfie" src="https://pbs.twimg.com/media/G7HwgjGaYAAgJ67?format=jpg&name=small" />
@@ -753,7 +725,7 @@ Keep the person exactly as shown in the reference image with 100% identical faci
 ```
 *Source: Rohan Paul ([@rohanpaul_ai](https://x.com/rohanpaul_ai)) - [Post](https://x.com/rohanpaul_ai/status/1995641282056925680)*
 
-### 7.10. 博物馆油画自拍
+### 7.8. 博物馆油画自拍
 *与自己的古典油画版合影。*
 
 <img width="400" alt="Museum Selfie" src="https://pbs.twimg.com/media/G7N2KUIbMAAspf6?format=jpg&name=900x900" />
@@ -772,7 +744,7 @@ Masterpiece, ultra-detailed, cinematic lighting, strong contrast, dramatic shado
 ```
 *烟花老师（一支烟花） ([@brad_zhang2024](https://x.com/brad_zhang2024)) - [Post](https://x.com/brad_zhang2024/status/1996072707348201827)*
 
-### 7.11. 卡片机屏幕展示
+### 7.9. 卡片机屏幕展示
 *卡片机屏幕上的怀旧照片。*
 
 <img width="400" alt="Camera Screen Display" src="https://pbs.twimg.com/media/G7NVohbbgAcUFBe?format=jpg&name=900x900" />
@@ -794,7 +766,7 @@ Color grading: nostalgic digital-camera tones, high contrast flash, subtle displ
 ```
 *Source: simply ([@kingofdairyque](https://x.com/kingofdairyque)) - [Post](https://x.com/kingofdairyque/status/1996033217795903655)*
 
-### 7.12. 杂志封面人像
+### 7.10. 杂志封面人像
 *创建光面杂志封面与动态人像。*
 
 <img width="400" alt="Magazine Cover" src="https://pbs.twimg.com/media/G7QmCFcXoAAwaet?format=jpg&name=large" />
@@ -809,28 +781,7 @@ Put the issue number and today's date in the corner along with a barcode and a p
 ```
 *Source: Nano Banana Pro ([@NanoBanana](https://x.com/NanoBanana)) - [Post](https://x.com/NanoBanana/status/1996262496802361675)*
 
-### 7.13. 奢华产品摄影
-*暗水面上的漂浮奢华产品照。*
-
-<img width="400" alt="Luxury Product" src="https://raw.githubusercontent.com/ZeroLu/awesome-nanobanana-pro/refs/heads/main/assets/luxury-product-shot.jpg" />
-
-**Prompt:**
-```text
-Product:
-[BRAND] [PRODUCT NAME] - [bottle shape], [label description], [liquid color]
-
-Scene:
-Luxury product shot floating on dark water with [flower type] in [colors] arranged around it.
-[Lighting style - e.g., "golden hour glow" /
-"bright fresh light"] creates reflections and ripples across the water.
-
-Mood & Style:
-[Adjectives - e.g., "ethereal and luxurious" /
-"fresh and clean"], high-end commercial photography, [camera angle], shallow depth of field with soft bokeh background
-```
-*Source: AmirMušić ([@AmirMushich](https://x.com/AmirMushich)) - [Post](https://x.com/AmirMushich/status/1974767431714304456)*
-
-### 7.14. 雪中小狗合影
+### 7.11. 雪中小狗合影
 *冬日雪景小狗合影，保持面部特征。*
 
 <img width="400" alt="Puppy Snow Portrait" src="https://pbs.twimg.com/media/G6qMd2abwAA-hAi?format=jpg&name=900x900" />

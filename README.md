@@ -2,7 +2,15 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![GitHub stars](https://img.shields.io/github/stars/xiji2646-netizen/awesome-nano-banana-2-prompt?style=social)](https://github.com/xiji2646-netizen/awesome-nano-banana-2-prompt/stargazers)
 
-[简体中文](README_zh-CN.md) | English
+[简体中文](README_zh-CN.md) | 
+[Español](README.es.md) | 
+[日本語](README.ja.md) | 
+[한국어](README.ko.md) | 
+[Français](README.fr.md) | 
+[Deutsch](README.de.md) | 
+[Türkçe](README.tr.md) | 
+[繁體中文](README_zh-TW.md) | 
+English
 
 > A curated collection of **100 high-quality Nano Banana 2 prompts** for AI image generation — from photorealistic portraits to creative experiments, 3D dioramas, and beyond.
 >

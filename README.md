@@ -9,54 +9,119 @@
 
 Nano Banana 2 is built on Gemini 3.1 Flash Image — delivering Pro-level quality at Flash speed. This repo collects the most effective prompts from X (Twitter) creators and prompt engineers to help you unlock its full potential.
 
----
-
-### 🚀 Sponsor: [Run These Prompts with Nano Banana 2 via EvoLink — 20% Cheaper Than Google](https://evolink.ai/zh/nano-banana-2)
-
-[<img width="600" alt="EvoLink Nano Banana 2" src="https://img.shields.io/badge/EvoLink-Nano_Banana_2_API-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMyA3djEwbDkgNSA5LTVWN2wtOS01eiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=" />](https://evolink.ai/zh/nano-banana-2)
-
-| Resolution | Google Official | EvoLink | Savings |
-|:---:|:---:|:---:|:---:|
-| 0.5K (~0.25MP) | $0.045 / image | **$0.0359 / image** | 20% |
-| 1K (~1MP) | $0.067 / image | **$0.0538 / image** | 20% |
-| 2K (~4MP) ⭐ | $0.101 / image | **$0.0806 / image** | 20% |
-| 4K (~16MP) | $0.15 / image | **$0.1210 / image** | 19% |
-
-**Why EvoLink?**
-- 🔑 **One API Key, Zero Config** — No Google Cloud project, no billing setup, no quota requests.
-- 💰 **20% Cheaper** — Same model, lower price.
-- ⚡ **99.9% Uptime** — Auto-fallback to the next cheapest provider.
-- 🔌 **OpenAI-Compatible** — Migrate in minutes with the same endpoint format.
-- 🎨 **200+ AI Models** — Access Nano Banana 2 and 200+ other models with one key.
-
-##### Quick Start
-1. Sign up at [EvoLink](https://evolink.ai) (free) and get your API key
-2. Send a POST request with your prompt and optional reference images
-3. Receive generated/edited images — ready to deploy
-
-👉 **[Get Started Now](https://evolink.ai/zh/nano-banana-2)**
-
----
 
 ## 📖 Table of Contents
 
 1. [Product Photography](#1-product-photography)
-2. [Photorealism & Portraits](#2-photorealism--portraits)
-3. [Street & Documentary](#3-street--documentary)
-4. [Panoramic & Landscape](#4-panoramic--landscape)
-5. [3D & Diorama](#5-3d--diorama)
-6. [Creative & Artistic](#6-creative--artistic)
-7. [Fashion & Lifestyle](#7-fashion--lifestyle)
-8. [Education & Knowledge](#8-education--knowledge)
-9. [E-commerce & Virtual Studio](#9-e-commerce--virtual-studio)
-10. [Workplace & Productivity](#10-workplace--productivity)
-11. [Photo Editing & Restoration](#11-photo-editing--restoration)
-12. [Interior Design](#12-interior-design)
-13. [Social Media & Marketing](#13-social-media--marketing)
-14. [Daily Life & Translation](#14-daily-life--translation)
-15. [Social Networking & Avatars](#15-social-networking--avatars)
-16. [Resources](#16-resources)
-17. [Contributing](#17-contributing)
+   - [1.1. Orange Juice Brand Product Shot](#11-orange-juice-brand-product-shot)
+   - [1.2. Luxury Product Photography](#12-luxury-product-photography)
+2. [Photorealism & Portraits](#2-photorealism-portraits)
+   - [2.1. Spherical Cute Animals](#21-spherical-cute-animals)
+   - [2.2. Needle-Felted Wool Miniature](#22-needle-felted-wool-miniature)
+   - [2.3. Candid Street Portrait](#23-candid-street-portrait)
+   - [2.4. Pixel Art Game Enemy](#24-pixel-art-game-enemy)
+   - [2.5. Hyper-Realistic Dual-Tone Portrait](#25-hyper-realistic-dual-tone-portrait)
+   - [2.6. Gritty Lion Bond Portrait](#26-gritty-lion-bond-portrait)
+   - [2.7. Soft Glow Mirror Selfie](#27-soft-glow-mirror-selfie)
+   - [2.8. Mosque Prayer Scene](#28-mosque-prayer-scene)
+3. [Street & Documentary](#3-street-documentary)
+   - [3.1. Black & White Urban Cyclist](#31-black-white-urban-cyclist)
+   - [3.2. White Horse in Motion](#32-white-horse-in-motion)
+   - [3.3. Minimalist Orange Wall](#33-minimalist-orange-wall)
+   - [3.4. Blue Hour Child & Cat](#34-blue-hour-child-cat)
+   - [3.5. Golden Hour Walking](#35-golden-hour-walking)
+   - [3.6. Basketball Court Twilight](#36-basketball-court-twilight)
+   - [3.7. Vintage Indoor Portrait](#37-vintage-indoor-portrait)
+   - [3.8. iPhone Mirror Selfie](#38-iphone-mirror-selfie)
+4. [Panoramic & Landscape](#4-panoramic-landscape)
+   - [4.1. Mars Rover Panorama](#41-mars-rover-panorama)
+   - [4.2. Balcony River View](#42-balcony-river-view)
+   - [4.3. Jungle Cabin & Sunset Panorama](#43-jungle-cabin-sunset-panorama)
+   - [4.4. Enceladus Ice Surface Panorama](#44-enceladus-ice-surface-panorama)
+   - [4.5. Snow Leopard at Dawn](#45-snow-leopard-at-dawn)
+5. [3D & Diorama](#5-3d-diorama)
+   - [5.1. Hyper-Realistic City Diorama](#51-hyper-realistic-city-diorama)
+   - [5.2. Shanghai Bund Isometric](#52-shanghai-bund-isometric)
+   - [5.3. Resident Evil Vibe Box](#53-resident-evil-vibe-box)
+6. [Creative & Artistic](#6-creative-artistic)
+   - [6.1. Tourlitis Lighthouse Sketch](#61-tourlitis-lighthouse-sketch)
+   - [6.2. Candid Flash Record Store](#62-candid-flash-record-store)
+   - [6.3. Margherita Pizza Ghibli Infographic](#63-margherita-pizza-ghibli-infographic)
+   - [6.4. Cinematic Fashion Portrait (Spanish)](#64-cinematic-fashion-portrait-spanish)
+7. [Fashion & Lifestyle](#7-fashion-lifestyle)
+   - [7.1. Hyper-Realistic Crowd Composition](#71-hyper-realistic-crowd-composition)
+   - [7.2. 2000s Mirror Selfie](#72-2000s-mirror-selfie)
+   - [7.3. Victoria's Secret Style Photoshoot](#73-victorias-secret-style-photoshoot)
+   - [7.4. 1990s Camera Style Portrait](#74-1990s-camera-style-portrait)
+   - [7.5. Professional Headshot Creator](#75-professional-headshot-creator)
+   - [7.6. Fisheye Movie Character Selfie](#76-fisheye-movie-character-selfie)
+   - [7.7. Character Consistency Selfie](#77-character-consistency-selfie)
+   - [7.8. Museum Art Exhibition Selfie](#78-museum-art-exhibition-selfie)
+   - [7.9. Compact Camera Screen Display](#79-compact-camera-screen-display)
+   - [7.10. Magazine Cover Portrait](#710-magazine-cover-portrait)
+   - [7.11. Portrait with Puppy in Snow](#711-portrait-with-puppy-in-snow)
+8. [Text & Typography](#8-text-typography)
+   - [8.1. Star Wars "Where's Waldo"](#81-star-wars-wheres-waldo)
+   - [8.2. Aging Through the Years](#82-aging-through-the-years)
+   - [8.3. Recursive Visuals](#83-recursive-visuals)
+   - [8.4. Coordinate Visualization](#84-coordinate-visualization)
+   - [8.5. Conceptual Visualization](#85-conceptual-visualization)
+   - [8.6. Literal Interpretation](#86-literal-interpretation)
+   - [8.7. Multi-Subject Compositing](#87-multi-subject-compositing)
+   - [8.8. Whiteboard Marker Art](#88-whiteboard-marker-art)
+   - [8.9. Split View 3D Render](#89-split-view-3d-render)
+   - [8.10. USA 3D Diorama with Landmarks](#810-usa-3d-diorama-with-landmarks)
+   - [8.11. US Map Made of Famous Foods](#811-us-map-made-of-famous-foods)
+   - [8.12. City's Tallest Buildings 3D View](#812-citys-tallest-buildings-3d-view)
+   - [8.13. 3D Isometric Home Office](#813-3d-isometric-home-office)
+   - [8.14. Emoji Combination](#814-emoji-combination)
+   - [8.15. Torn Paper Art Effect](#815-torn-paper-art-effect)
+   - [8.16. Floating Country Island Diorama](#816-floating-country-island-diorama)
+   - [8.17. Miniature Swimming Pool Diorama](#817-miniature-swimming-pool-diorama)
+   - [8.18. Christmas Ornament 3D Character](#818-christmas-ornament-3d-character)
+   - [8.19. Ironing Out Wrinkles](#819-ironing-out-wrinkles)
+   - [8.20. Perfectly Isometric Photography](#820-perfectly-isometric-photography)
+9. [Photo Editing & Restoration](#9-photo-editing-restoration)
+   - [9.1. Shop Window Cartoon Reflection](#91-shop-window-cartoon-reflection)
+   - [9.2. Urban 3D LED Display](#92-urban-3d-led-display)
+   - [9.3. Smart Outpainting](#93-smart-outpainting)
+   - [9.4. Smart Crowd Removal](#94-smart-crowd-removal)
+   - [9.5. Face Detection CCTV Simulation](#95-face-detection-cctv-simulation)
+   - [9.6. Concept Visualization Infographic](#96-concept-visualization-infographic)
+   - [9.7. Kids' Crayon Travel Journal](#97-kids-crayon-travel-journal)
+   - [9.8. Financial Sankey Diagram](#98-financial-sankey-diagram)
+10. [E-commerce & Marketing](#10-e-commerce-marketing)
+   - [10.1. Virtual Model Try-On](#101-virtual-model-try-on)
+   - [10.2. Professional Product Photography](#102-professional-product-photography)
+   - [10.3. 3D Chibi-Style Brand Store 3D Q](#103-3d-chibi-style-brand-store-3d-q)
+   - [10.4. Room Furnishing Visualization](#104-room-furnishing-visualization)
+   - [10.5. Hand-drawn Flowchart to Corporate Charts](#105-hand-drawn-flowchart-to-corporate-charts)
+   - [10.6. UI Sketch to High-Fidelity Prototype](#106-ui-sketch-to-high-fidelity-prototype)
+   - [10.7. Magazine Layout Generator](#107-magazine-layout-generator)
+   - [10.8. Viral Cover Image](#108-viral-cover-image)
+   - [10.9. Commercial Promotional Poster](#109-commercial-promotional-poster)
+   - [10.10. Physical Store Translation](#1010-physical-store-translation)
+   - [10.11. Digital Content Localization](#1011-digital-content-localization)
+   - [10.12. 3D Blind Box Style Avatar](#1012-3d-blind-box-style-avatar)
+   - [10.13. Pet Meme Creation](#1013-pet-meme-creation)
+   - [10.14. Japanese High School Student Snap](#1014-japanese-high-school-student-snap)
+   - [10.15. Hard Furnishing Preview](#1015-hard-furnishing-preview)
+   - [10.16. Y2K Scrapbook Poster](#1016-y2k-scrapbook-poster)
+   - [10.17. AI Skin Analysis](#1017-ai-skin-analysis)
+   - [10.18. Chalkboard Anime Art](#1018-chalkboard-anime-art)
+   - [10.19. Fisheye Matcha Girl](#1019-fisheye-matcha-girl)
+   - [10.20. Novel Scene 3D Poster](#1020-novel-scene-3d-poster)
+   - [10.21. Photo Book Magazine Cover](#1021-photo-book-magazine-cover)
+   - [10.22. Canon IXUS Aesthetic Portrait](#1022-canon-ixus-aesthetic-portrait)
+   - [10.23. Cinematic Keyframe Generator](#1023-cinematic-keyframe-generator)
+   - [10.24. Trans-Dimensional Liquid Pour](#1024-trans-dimensional-liquid-pour)
+   - [10.25. Extreme Wide Angle Phone Edit](#1025-extreme-wide-angle-phone-edit)
+   - [10.26. Hyperrealistic Anime Portrait](#1026-hyperrealistic-anime-portrait)
+   - [10.27. Chalkboard Anime Art (Alternate)](#1027-chalkboard-anime-art-alternate)
+11. [Resources](#11-resources)
+12. [Contributing](#12-contributing)
+13. [Star History](#13-star-history)
+- [License](#license)
 
 ---
 

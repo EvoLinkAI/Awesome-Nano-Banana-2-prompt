@@ -1982,18 +1982,6 @@ Contributions are welcome! If you have an **awesome Nano Banana 2 prompt**, plea
 
 Please ensure you include the **Source** (link to the original creator) to give credit where it is due.
 
-## 13. Star History
-
-<a href="https://star-history.com/#xiji2646-netizen/awesome-nano-banana-2-prompt&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=xiji2646-netizen/awesome-nano-banana-2-prompt&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=xiji2646-netizen/awesome-nano-banana-2-prompt&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=xiji2646-netizen/awesome-nano-banana-2-prompt&type=Date" />
- </picture>
-</a>
-
----
-
 ## License
 
 [![CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)

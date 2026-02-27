@@ -1984,18 +1984,6 @@ A photorealistic photograph of a Japanese school classroom blackboard covered in
 请确保包含**来源**（原创者链接），以表示对原创者的尊重。
 
 
-## 13. Star History
-
-<a href="https://star-history.com/#xiji2646-netizen/awesome-nano-banana-2-prompt&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=xiji2646-netizen/awesome-nano-banana-2-prompt&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=xiji2646-netizen/awesome-nano-banana-2-prompt&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=xiji2646-netizen/awesome-nano-banana-2-prompt&type=Date" />
- </picture>
-</a>
-
----
-
 ## 许可证
 
 [![CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)

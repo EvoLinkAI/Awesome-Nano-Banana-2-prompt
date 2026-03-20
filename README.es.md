@@ -34,5 +34,5 @@ CC BY 4.0 — Libre para usar y modificar con atribución.
 ---
 
 <p align="center">
-  Impulsado por <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-prompt"><strong>EvoLink</strong></a>
+  Impulsado por <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-prompt"><strong>EvoLink</strong></a>
 </p>

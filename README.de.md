@@ -25,5 +25,5 @@ CC BY 4.0
 ---
 
 <p align="center">
-  Powered by <a href="https://evolink.ai"><strong>EvoLink</strong></a>
+  Powered by <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-prompt"><strong>EvoLink</strong></a>
 </p>

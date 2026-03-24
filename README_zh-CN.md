@@ -1969,7 +1969,7 @@ A photorealistic photograph of a Japanese school classroom blackboard covered in
 
 - [官方提示词指南](https://blog.google/products/gemini/prompting-tips-nano-banana-pro/) - 学习如何有效构建提示词
 - [Nano Banana 提示词指南](https://www.fofr.ai/nano-banana-pro-guide) - 详细提示词指南
-- [EvoLink Nano Banana 2 API](https://evolink.ai/zh/nano-banana-2) - 通过 EvoLink API 使用 Nano Banana 2
+- [EvoLink Nano Banana 2 API](https://evolink.ai/zh/nano-banana-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-prompt) - 通过 EvoLink API 使用 Nano Banana 2
 
 ## 12. 贡献
 

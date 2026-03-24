@@ -25,7 +25,7 @@ Nano Banana 2 está construido sobre Gemini 3.1 Flash Image — ofreciendo calid
 
 ## 🚀 Uso Rápido
 
-Copia cualquier prompt, pégalo en [EvoLink](https://evolink.ai) con el modelo Nano Banana 2, y genera.
+Copia cualquier prompt, pégalo en [EvoLink](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-prompt) con el modelo Nano Banana 2, y genera.
 
 ## 📄 Licencia
 

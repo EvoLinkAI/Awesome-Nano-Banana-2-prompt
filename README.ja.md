@@ -16,7 +16,7 @@
 
 ## Quick Start
 
-Copy any prompt, paste into [EvoLink](https://evolink.ai) with Nano Banana 2 model, and generate.
+Copy any prompt, paste into [EvoLink](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-prompt) with Nano Banana 2 model, and generate.
 
 ## License
 

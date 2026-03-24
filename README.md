@@ -1977,7 +1977,7 @@ A photorealistic photograph of a Japanese school classroom blackboard covered in
 
 - [Official Prompting Guide](https://blog.google/products/gemini/prompting-tips-nano-banana-pro/) - Learn how to structure your prompts effectively
 - [How to prompt Nano Banana](https://www.fofr.ai/nano-banana-pro-guide) - Detailed prompting guide
-- [EvoLink Nano Banana 2 API](https://evolink.ai/zh/nano-banana-2) - Access Nano Banana 2 via EvoLink API
+- [EvoLink Nano Banana 2 API](https://evolink.ai/zh/nano-banana-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-2-prompt) - Access Nano Banana 2 via EvoLink API
 
 ## 12. Contributing
 
